@@ -2,7 +2,7 @@
 
 > **Open encyclopedia of modern tennis — English**
 >
-> Compiled from the research system of [Henry Phạm](https://github.com/henryPhamDuc)
+> Compiled from the research system of **Henry Phạm**
 
 ## Quick start
 
@@ -94,15 +94,11 @@ Contents include:
 
 ## Contribute
 
-This wiki is open source. You can:
-
-- :material-github:{ .lg } **[GitHub Repository](https://github.com/henryPhamDuc/tennis-wiki-en)** — view source, suggest edits
-- :fontawesome-brands-youtube:{ .lg } **[Tennis for Everyone Blog](https://tennis-for-everyone.blogspot.com/)** — bilingual English-Vietnamese posts
-- :fontawesome-brands-facebook:{ .lg } **[Facebook Page](https://www.facebook.com/share/1BmokPQjf2/)** — community
+This wiki is open source.
 
 ## License
 
-Content released under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+Wiki is open source, released under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 !!! quote "Attribution"
-    When reusing content, please credit: *"Tennis WIKI by Henry Phạm, https://github.com/henryPhamDuc/tennis-wiki-en"*
+    When reusing content, please credit: *"Tennis WIKI by Henry Phạm"*

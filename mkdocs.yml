@@ -12,11 +12,6 @@ site_author: Henry Phạm
 site_url: https://henryPhamDuc.github.io/tennis-wiki-en/
 
 # Repository
-repo_name: henryPhamDuc/tennis-wiki-en
-repo_url: https://github.com/henryPhamDuc/tennis-wiki-en
-edit_uri: edit/main/docs/
-
-# Directories
 docs_dir: docs
 site_dir: site
 
@@ -138,8 +133,4 @@ copyright: >
 
 # Social links
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/henryPhamDuc
-      name: GitHub
   generator: false
