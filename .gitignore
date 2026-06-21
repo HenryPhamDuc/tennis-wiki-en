@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS temp
+*.tmp
+*.bak
+*~
+
+# Build artifacts
+*.log
+.env
+.env.local
+.env.*.local
+
+# MkDocs build output (auto-generated, regenerated on each build)
+site/
+
+# MkDocs gitignore patterns (recommended by mkdocs)
+/cache/
+docs/.cache/
+
+# Downloaded backup files
+*.sql
+*.sql.gz
+*.tar.gz
+
+# Local user notes
+TODO.md
+NOTES.md
+drafts/
+
+# Image assets (place where user uploads go) - keep empty dir
+# docs/images/.gitkeep

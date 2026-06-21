@@ -1,0 +1,145 @@
+# MkDocs configuration for English Tennis WIKI
+# ============================================================================
+# English version. Sister site to https://henryphamduc.github.io/tennis-wiki/
+# (Vietnamese version) - cross-linked in nav.
+# ============================================================================
+
+site_name: 🎾 Tennis WIKI
+site_description: Open encyclopedia of modern tennis — English
+site_author: Henry Phạm
+
+# Live URL
+site_url: https://henryPhamDuc.github.io/tennis-wiki-en/
+
+# Repository
+repo_name: henryPhamDuc/tennis-wiki-en
+repo_url: https://github.com/henryPhamDuc/tennis-wiki-en
+edit_uri: edit/main/docs/
+
+# Directories
+docs_dir: docs
+site_dir: site
+
+# Material theme (English UI)
+theme:
+  name: material
+  language: en                     # English UI strings
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/tennis
+
+# Plugins
+plugins:
+  - search:
+      lang: en                     # English full-text search
+      separator: '[\s\-\._]+'
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.critic
+  - pymdownx.betterem
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.magiclink
+
+# Navigation
+nav:
+  - Home: index.md
+  - Technique: technique/index.md
+  - Biomechanics: biomechanics/index.md
+  - Tactics: tactics/index.md
+  - Psychology: psychology/index.md
+  - Fitness: fitness/index.md
+  - Players: players/index.md
+  - Handbooks: handbooks/index.md
+  - References: references/index.md
+  - System: system/index.md
+  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
+
+# Extra CSS (shared with Vietnamese site)
+extra_css:
+  - assets/tennis-extra.css
+
+# Extra JS
+extra_javascript:
+  - assets/tennis-extra.js
+
+# Copyright
+copyright: >
+  Copyright &copy; 2026 Henry Phạm &mdash;
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
+
+# Social links
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/henryPhamDuc
+      name: GitHub
+  generator: false

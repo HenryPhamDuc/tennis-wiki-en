@@ -1,0 +1,17 @@
+name: Refresh docs from English vault
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Manual refresh placeholder
+        run: |
+          echo "Refresh workflow - manual sync only. See tennis-wiki-en/scripts/build_en.py"
+          echo "Run locally: cd tennis-wiki-en && python scripts/build_en.py"

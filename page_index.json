@@ -1,0 +1,4067 @@
+[
+  {
+    "slug": "12-week-development-plan",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\12-week-development-plan.md"
+  },
+  {
+    "slug": "12-week-development-plan-1",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\12-week-development-plan-1.md"
+  },
+  {
+    "slug": "15-second-reset-protocol",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\15-second-reset-protocol.md"
+  },
+  {
+    "slug": "15-second-reset-protocol-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\15-second-reset-protocol-1.md"
+  },
+  {
+    "slug": "15-second-reset",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\15-second-reset.md"
+  },
+  {
+    "slug": "15-second-reset-1",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\15-second-reset-1.md"
+  },
+  {
+    "slug": "19-modern-tennis-handbook-2026",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\19-modern-tennis-handbook-2026.md"
+  },
+  {
+    "slug": "2026-ao-final-case-study",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\2026-ao-final-case-study.md"
+  },
+  {
+    "slug": "3-shot-pattern-design",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\3-shot-pattern-design.md"
+  },
+  {
+    "slug": "3-shot-pattern-design-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\3-shot-pattern-design-1.md"
+  },
+  {
+    "slug": "45-degree-rule",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\45-degree-rule.md"
+  },
+  {
+    "slug": "45-degree-rule-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\45-degree-rule-1.md"
+  },
+  {
+    "slug": "5-year-tennis-mastery-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\5-year-tennis-mastery-system.md"
+  },
+  {
+    "slug": "5-year-tennis-mastery-system-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\5-year-tennis-mastery-system-1.md"
+  },
+  {
+    "slug": "5r-movement-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\5r-movement-system.md"
+  },
+  {
+    "slug": "5r-movement-system-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\5r-movement-system-1.md"
+  },
+  {
+    "slug": "70%-rule-&-first-strike-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\70%-rule-&-first-strike-tennis.md"
+  },
+  {
+    "slug": "70%-rule-&-first-strike-tennis-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\70%-rule-&-first-strike-tennis-1.md"
+  },
+  {
+    "slug": "75%-rule",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\75%-rule.md"
+  },
+  {
+    "slug": "75%-rule-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\75%-rule-1.md"
+  },
+  {
+    "slug": "absorb",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\absorb.md"
+  },
+  {
+    "slug": "ace-rate-fallacy",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\ace-rate-fallacy.md"
+  },
+  {
+    "slug": "active-split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\active-split-step.md"
+  },
+  {
+    "slug": "active-split-step-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\active-split-step-1.md"
+  },
+  {
+    "slug": "advanced-split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\advanced-split-step.md"
+  },
+  {
+    "slug": "advanced-split-step-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\advanced-split-step-1.md"
+  },
+  {
+    "slug": "affordance-cues",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\affordance-cues.md"
+  },
+  {
+    "slug": "affordance-cues-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\affordance-cues-1.md"
+  },
+  {
+    "slug": "affordance-map",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\affordance-map.md"
+  },
+  {
+    "slug": "affordance-map-1",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\affordance-map-1.md"
+  },
+  {
+    "slug": "agentic-decision-tree",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\agentic-decision-tree.md"
+  },
+  {
+    "slug": "agentic-decision-tree-1",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\agentic-decision-tree-1.md"
+  },
+  {
+    "slug": "agentic-mind",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\agentic-mind.md"
+  },
+  {
+    "slug": "agentic-mind-1",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\agentic-mind-1.md"
+  },
+  {
+    "slug": "agentic-mind-2",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\agentic-mind-2.md"
+  },
+  {
+    "slug": "agentic-strategy",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\agentic-strategy.md"
+  },
+  {
+    "slug": "agentic-strategy-1",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\agentic-strategy-1.md"
+  },
+  {
+    "slug": "aggressive-modern-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\aggressive-modern-tennis.md"
+  },
+  {
+    "slug": "aggressive-modern-tennis-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\aggressive-modern-tennis-1.md"
+  },
+  {
+    "slug": "aggressive-return-positioning",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\aggressive-return-positioning.md"
+  },
+  {
+    "slug": "aggressive-return-positioning-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\aggressive-return-positioning-1.md"
+  },
+  {
+    "slug": "aging-athlete-protocol",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\aging-athlete-protocol.md"
+  },
+  {
+    "slug": "ai-coaching-(huấn-luyện-bằng-trí-tuệ-nhân-tạo)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\ai-coaching-(huấn-luyện-bằng-trí-tuệ-nhân-tạo).md"
+  },
+  {
+    "slug": "ai-integrated-coaching",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ai-integrated-coaching.md"
+  },
+  {
+    "slug": "airborne-strike",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\airborne-strike.md"
+  },
+  {
+    "slug": "alcaraz-vs-sinner-movement-contrast",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\alcaraz-vs-sinner-movement-contrast.md"
+  },
+  {
+    "slug": "algorithmic-vs-intuitive-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\algorithmic-vs-intuitive-tennis.md"
+  },
+  {
+    "slug": "ambidextrous-engrams",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ambidextrous-engrams.md"
+  },
+  {
+    "slug": "ambitennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ambitennis.md"
+  },
+  {
+    "slug": "amortization-phase",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\amortization-phase.md"
+  },
+  {
+    "slug": "amygdala-hijack",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\amygdala-hijack.md"
+  },
+  {
+    "slug": "amygdala-hijack-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\amygdala-hijack-1.md"
+  },
+  {
+    "slug": "amygdala-hijack-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\amygdala-hijack-2.md"
+  },
+  {
+    "slug": "amygdala-override",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\amygdala-override.md"
+  },
+  {
+    "slug": "amygdala-trigger-and-neural-reversion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\amygdala-trigger-and-neural-reversion.md"
+  },
+  {
+    "slug": "anatomical-constraints",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anatomical-constraints.md"
+  },
+  {
+    "slug": "anatomical-lever-length",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anatomical-lever-length.md"
+  },
+  {
+    "slug": "anchor-—-taxonomy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anchor-—-taxonomy.md"
+  },
+  {
+    "slug": "angular-compression",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\angular-compression.md"
+  },
+  {
+    "slug": "angular-momentum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\angular-momentum.md"
+  },
+  {
+    "slug": "angular-momentum-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\angular-momentum-1.md"
+  },
+  {
+    "slug": "angular-momentum-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\angular-momentum-2.md"
+  },
+  {
+    "slug": "ankle-flexion-and-the-150ms-penalty",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ankle-flexion-and-the-150ms-penalty.md"
+  },
+  {
+    "slug": "ankle-lock",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ankle-lock.md"
+  },
+  {
+    "slug": "antagonistic-tension",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\antagonistic-tension.md"
+  },
+  {
+    "slug": "anti-rotation-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anti-rotation-training.md"
+  },
+  {
+    "slug": "anticipation-vs-reaction",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipation-vs-reaction.md"
+  },
+  {
+    "slug": "anticipation",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\anticipation.md"
+  },
+  {
+    "slug": "anticipatory-framework",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-framework.md"
+  },
+  {
+    "slug": "anticipatory-mode",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-mode.md"
+  },
+  {
+    "slug": "anticipatory-movement",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-movement.md"
+  },
+  {
+    "slug": "anticipatory-rhythm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-rhythm.md"
+  },
+  {
+    "slug": "anticipatory-rhythm-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-rhythm-1.md"
+  },
+  {
+    "slug": "anticipatory-saccadic-tracking",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\anticipatory-saccadic-tracking.md"
+  },
+  {
+    "slug": "approach-shot-first-protocol",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\approach-shot-first-protocol.md"
+  },
+  {
+    "slug": "approach-shot",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\approach-shot.md"
+  },
+  {
+    "slug": "ar-biomechanical-overlays",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ar-biomechanical-overlays.md"
+  },
+  {
+    "slug": "arm-geometry-and-injury-risk",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arm-geometry-and-injury-risk.md"
+  },
+  {
+    "slug": "arming-injuries",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-injuries.md"
+  },
+  {
+    "slug": "arming-on-the-serve",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-on-the-serve.md"
+  },
+  {
+    "slug": "arming-on-the-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-on-the-volley.md"
+  },
+  {
+    "slug": "arming-ratio",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-ratio.md"
+  },
+  {
+    "slug": "arming-vs-petit-bras",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-vs-petit-bras.md"
+  },
+  {
+    "slug": "arming",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming.md"
+  },
+  {
+    "slug": "arming-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arming-1.md"
+  },
+  {
+    "slug": "arousal-channeling",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\arousal-channeling.md"
+  },
+  {
+    "slug": "arousal-channelling",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\arousal-channelling.md"
+  },
+  {
+    "slug": "asymmetrical-split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\asymmetrical-split-step.md"
+  },
+  {
+    "slug": "athletic-stance-and-centre-of-gravity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\athletic-stance-and-centre-of-gravity.md"
+  },
+  {
+    "slug": "atp-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\atp-forehand.md"
+  },
+  {
+    "slug": "atp-pc-energy-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\atp-pc-energy-system.md"
+  },
+  {
+    "slug": "atp-pc-system-and-energy-systems",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\atp-pc-system-and-energy-systems.md"
+  },
+  {
+    "slug": "automated-logic",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\automated-logic.md"
+  },
+  {
+    "slug": "autonomic-muscle-tone-—-jin-vs-li",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-muscle-tone-—-jin-vs-li.md"
+  },
+  {
+    "slug": "autonomic-nervous-system-in-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-nervous-system-in-tennis.md"
+  },
+  {
+    "slug": "autonomic-nervous-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-nervous-system.md"
+  },
+  {
+    "slug": "autonomic-reflexes-—-beneficial",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-reflexes-—-beneficial.md"
+  },
+  {
+    "slug": "autonomic-reset-protocol",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-reset-protocol.md"
+  },
+  {
+    "slug": "autonomic-resonance-—-breath-as-governor",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\autonomic-resonance-—-breath-as-governor.md"
+  },
+  {
+    "slug": "autonomic-response-in-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\autonomic-response-in-tennis.md"
+  },
+  {
+    "slug": "back-foot-—-groundstroke-base-and-back-foot-first-principle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\back-foot-—-groundstroke-base-and-back-foot-first-principle.md"
+  },
+  {
+    "slug": "back-foot-—-on-the-back-foot-(tactical-concept)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\back-foot-—-on-the-back-foot-(tactical-concept).md"
+  },
+  {
+    "slug": "back-foot-—-serve-stance-(platform-vs-pinpoint)",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\back-foot-—-serve-stance-(platform-vs-pinpoint).md"
+  },
+  {
+    "slug": "back-foot-—-sliding-and-recovery-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\back-foot-—-sliding-and-recovery-step.md"
+  },
+  {
+    "slug": "back-foot-—-taxonomy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\back-foot-—-taxonomy.md"
+  },
+  {
+    "slug": "back-foot-—-volley-and-net-footwork",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\back-foot-—-volley-and-net-footwork.md"
+  },
+  {
+    "slug": "backhand-architecture",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\backhand-architecture.md"
+  },
+  {
+    "slug": "backhand-bermuda-triangle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\backhand-bermuda-triangle.md"
+  },
+  {
+    "slug": "backhand-grips",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\backhand-grips.md"
+  },
+  {
+    "slug": "backhand-patterns-of-play",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\backhand-patterns-of-play.md"
+  },
+  {
+    "slug": "backhand-slice",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\backhand-slice.md"
+  },
+  {
+    "slug": "backswing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\backswing.md"
+  },
+  {
+    "slug": "balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\balance.md"
+  },
+  {
+    "slug": "ball-bounce-physics-—-topspin,-slice,-and-surface",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ball-bounce-physics-—-topspin,-slice,-and-surface.md"
+  },
+  {
+    "slug": "ball-tracking-&-central-vision",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ball-tracking-&-central-vision.md"
+  },
+  {
+    "slug": "bandwidth-depletion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bandwidth-depletion.md"
+  },
+  {
+    "slug": "basal-ganglia",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\basal-ganglia.md"
+  },
+  {
+    "slug": "basal-ganglia-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\basal-ganglia-1.md"
+  },
+  {
+    "slug": "baseline-to-net-transition",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\baseline-to-net-transition.md"
+  },
+  {
+    "slug": "baseline",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\baseline.md"
+  },
+  {
+    "slug": "ben-shelton",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ben-shelton.md"
+  },
+  {
+    "slug": "bend-your-knees-trap",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\bend-your-knees-trap.md"
+  },
+  {
+    "slug": "between-point-reset-ritual",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\between-point-reset-ritual.md"
+  },
+  {
+    "slug": "between-point-ritual",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\between-point-ritual.md"
+  },
+  {
+    "slug": "between-point-ritual-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\between-point-ritual-1.md"
+  },
+  {
+    "slug": "between-point-ritual-3",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\between-point-ritual-3.md"
+  },
+  {
+    "slug": "between-point-ritual-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\between-point-ritual-4.md"
+  },
+  {
+    "slug": "bilateral-neuroplasticity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bilateral-neuroplasticity.md"
+  },
+  {
+    "slug": "bilateral-synergy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bilateral-synergy.md"
+  },
+  {
+    "slug": "biological-abs",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\biological-abs.md"
+  },
+  {
+    "slug": "biological-camouflage",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\biological-camouflage.md"
+  },
+  {
+    "slug": "biological-engine",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\biological-engine.md"
+  },
+  {
+    "slug": "biological-springs",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\biological-springs.md"
+  },
+  {
+    "slug": "biological-threat-response",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\biological-threat-response.md"
+  },
+  {
+    "slug": "biomechanical-fault-line",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\biomechanical-fault-line.md"
+  },
+  {
+    "slug": "biomechanical-load-balancing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\biomechanical-load-balancing.md"
+  },
+  {
+    "slug": "bisector-rule",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bisector-rule.md"
+  },
+  {
+    "slug": "blitz-chess-model",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\blitz-chess-model.md"
+  },
+  {
+    "slug": "blitz-chess-tactical-architecture",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\blitz-chess-tactical-architecture.md"
+  },
+  {
+    "slug": "block-and-drive-return",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\block-and-drive-return.md"
+  },
+  {
+    "slug": "blocking-as-redirection",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\blocking-as-redirection.md"
+  },
+  {
+    "slug": "blueprint-champion",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\blueprint-champion.md"
+  },
+  {
+    "slug": "blueprint-champion-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\blueprint-champion-1.md"
+  },
+  {
+    "slug": "body-return",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\body-return.md"
+  },
+  {
+    "slug": "body-schema-and-tool-embodiment",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\body-schema-and-tool-embodiment.md"
+  },
+  {
+    "slug": "body-volley-protocol",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\body-volley-protocol.md"
+  },
+  {
+    "slug": "body-weight-transfer-—-performance-physics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\body-weight-transfer-—-performance-physics.md"
+  },
+  {
+    "slug": "bounce-—-taxonomy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bounce-—-taxonomy.md"
+  },
+  {
+    "slug": "bounce-hit-technique",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\bounce-hit-technique.md"
+  },
+  {
+    "slug": "bounce-hit-technique-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\bounce-hit-technique-2.md"
+  },
+  {
+    "slug": "braking-failure",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\braking-failure.md"
+  },
+  {
+    "slug": "braking-failure-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\braking-failure-1.md"
+  },
+  {
+    "slug": "break-point",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\break-point.md"
+  },
+  {
+    "slug": "bucket-leak",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\bucket-leak.md"
+  },
+  {
+    "slug": "buggy-whip-lasso-finish",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\buggy-whip-lasso-finish.md"
+  },
+  {
+    "slug": "c-to-i-transition",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\c-to-i-transition.md"
+  },
+  {
+    "slug": "carlos-alcaraz-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\carlos-alcaraz-model.md"
+  },
+  {
+    "slug": "carlos-alcaraz-—-biomechanical-and-tactical-profile",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\carlos-alcaraz-—-biomechanical-and-tactical-profile.md"
+  },
+  {
+    "slug": "carlos-alcaraz-—-forehand-profile",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\carlos-alcaraz-—-forehand-profile.md"
+  },
+  {
+    "slug": "center-of-gravity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\center-of-gravity.md"
+  },
+  {
+    "slug": "central-governor-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\central-governor-model.md"
+  },
+  {
+    "slug": "centre-of-gravity-the-master-variable",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\centre-of-gravity-the-master-variable.md"
+  },
+  {
+    "slug": "cerebellar-autonomic-control",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cerebellar-autonomic-control.md"
+  },
+  {
+    "slug": "cerebellum",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\cerebellum.md"
+  },
+  {
+    "slug": "cervical-spine-isolation-and-the-rotational-axis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cervical-spine-isolation-and-the-rotational-axis.md"
+  },
+  {
+    "slug": "choking-mechanism",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\choking-mechanism.md"
+  },
+  {
+    "slug": "choking",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\choking.md"
+  },
+  {
+    "slug": "choking-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\choking-2.md"
+  },
+  {
+    "slug": "closed-and-neutral-stance-backhand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\closed-and-neutral-stance-backhand.md"
+  },
+  {
+    "slug": "closed-stance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\closed-stance.md"
+  },
+  {
+    "slug": "cns-fatigue-signs",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cns-fatigue-signs.md"
+  },
+  {
+    "slug": "cns-fatigue-vs-mental-fragility",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\cns-fatigue-vs-mental-fragility.md"
+  },
+  {
+    "slug": "cns-fatigue",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cns-fatigue.md"
+  },
+  {
+    "slug": "cns-fatigue-1",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\cns-fatigue-1.md"
+  },
+  {
+    "slug": "cns-liberation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cns-liberation.md"
+  },
+  {
+    "slug": "coach-track-—-meta-principles",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coach-track-—-meta-principles.md"
+  },
+  {
+    "slug": "coaching-conditioning",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-conditioning.md"
+  },
+  {
+    "slug": "coaching-kinetic-chain",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-kinetic-chain.md"
+  },
+  {
+    "slug": "coaching-methodology-—-old-knowledge-vs-new-knowledge",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-methodology-—-old-knowledge-vs-new-knowledge.md"
+  },
+  {
+    "slug": "coaching-movement",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-movement.md"
+  },
+  {
+    "slug": "coaching-net-play",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-net-play.md"
+  },
+  {
+    "slug": "coaching-rotational-power",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-rotational-power.md"
+  },
+  {
+    "slug": "coaching-tactics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-tactics.md"
+  },
+  {
+    "slug": "coaching-the-backhand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-the-backhand.md"
+  },
+  {
+    "slug": "coaching-the-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-the-forehand.md"
+  },
+  {
+    "slug": "coaching-the-mental-game",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-the-mental-game.md"
+  },
+  {
+    "slug": "coaching-the-return",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-the-return.md"
+  },
+  {
+    "slug": "coaching-the-serve",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-the-serve.md"
+  },
+  {
+    "slug": "coaching-variety",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-variety.md"
+  },
+  {
+    "slug": "coaching-with-technology",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coaching-with-technology.md"
+  },
+  {
+    "slug": "cognitive-fatigue",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cognitive-fatigue.md"
+  },
+  {
+    "slug": "cognitive-load-in-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cognitive-load-in-tennis.md"
+  },
+  {
+    "slug": "cognitive-load-management",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\cognitive-load-management.md"
+  },
+  {
+    "slug": "cognitive-residue",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cognitive-residue.md"
+  },
+  {
+    "slug": "cognitive-motor-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cognitive-motor-training.md"
+  },
+  {
+    "slug": "coil",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\coil.md"
+  },
+  {
+    "slug": "competitive-resilience",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\competitive-resilience.md"
+  },
+  {
+    "slug": "conservation-of-angular-momentum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\conservation-of-angular-momentum.md"
+  },
+  {
+    "slug": "constraints-led-approach",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\constraints-led-approach.md"
+  },
+  {
+    "slug": "contact-geometry",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\contact-geometry.md"
+  },
+  {
+    "slug": "contact-point-and-forward-mass",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\contact-point-and-forward-mass.md"
+  },
+  {
+    "slug": "contact-point-consistency",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\contact-point-consistency.md"
+  },
+  {
+    "slug": "contact-point",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\contact-point.md"
+  },
+  {
+    "slug": "contact-sound-diagnostic",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\contact-sound-diagnostic.md"
+  },
+  {
+    "slug": "continental-grip-anatomy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\continental-grip-anatomy.md"
+  },
+  {
+    "slug": "contradiction-old-knowledge-vs-new-knowledge",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\contradiction-old-knowledge-vs-new-knowledge.md"
+  },
+  {
+    "slug": "core-as-shock-absorber",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\core-as-shock-absorber.md"
+  },
+  {
+    "slug": "core-damping",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\core-damping.md"
+  },
+  {
+    "slug": "core-leaks",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\core-leaks.md"
+  },
+  {
+    "slug": "core",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\core.md"
+  },
+  {
+    "slug": "counter-puncher's-range",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\counter-puncher's-range.md"
+  },
+  {
+    "slug": "court-geometry",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\court-geometry.md"
+  },
+  {
+    "slug": "court-positioning",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\court-positioning.md"
+  },
+  {
+    "slug": "cross-court-heavy-return",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cross-court-heavy-return.md"
+  },
+  {
+    "slug": "cross-court-rally-control",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cross-court-rally-control.md"
+  },
+  {
+    "slug": "crossover-step",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\crossover-step.md"
+  },
+  {
+    "slug": "cue-reading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\cue-reading.md"
+  },
+  {
+    "slug": "dantian-&-spinal-axis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dantian-&-spinal-axis.md"
+  },
+  {
+    "slug": "dantian-and-rooted-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dantian-and-rooted-balance.md"
+  },
+  {
+    "slug": "dantian-and-rooting",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dantian-and-rooting.md"
+  },
+  {
+    "slug": "dantian-rotation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dantian-rotation.md"
+  },
+  {
+    "slug": "dantian",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\dantian.md"
+  },
+  {
+    "slug": "dead-hand-finish",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dead-hand-finish.md"
+  },
+  {
+    "slug": "dead-hand-finish-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dead-hand-finish-1.md"
+  },
+  {
+    "slug": "deceleration-and-injury-physics",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\deceleration-and-injury-physics.md"
+  },
+  {
+    "slug": "deceleration-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\deceleration-mechanics.md"
+  },
+  {
+    "slug": "decision-trees",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\decision-trees.md"
+  },
+  {
+    "slug": "degrees-of-freedom-and-the-bernstein-problem",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\degrees-of-freedom-and-the-bernstein-problem.md"
+  },
+  {
+    "slug": "degrees-of-freedom",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\degrees-of-freedom.md"
+  },
+  {
+    "slug": "delayed-hip-shoulder-separation",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\delayed-hip-shoulder-separation.md"
+  },
+  {
+    "slug": "deliberate-fluctuation",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\deliberate-fluctuation.md"
+  },
+  {
+    "slug": "deliberate-practice-(luyện-tập-có-chủ-đích)",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\deliberate-practice-(luyện-tập-có-chủ-đích).md"
+  },
+  {
+    "slug": "deliberate-practice-and-constraints",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\deliberate-practice-and-constraints.md"
+  },
+  {
+    "slug": "deliberate-practice",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\deliberate-practice.md"
+  },
+  {
+    "slug": "deliberate-practice-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\deliberate-practice-1.md"
+  },
+  {
+    "slug": "differential-adaptation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\differential-adaptation.md"
+  },
+  {
+    "slug": "digital-twin",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\digital-twin.md"
+  },
+  {
+    "slug": "directional-pre-load",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\directional-pre-load.md"
+  },
+  {
+    "slug": "disconnect",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\disconnect.md"
+  },
+  {
+    "slug": "disconnect-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\disconnect-1.md"
+  },
+  {
+    "slug": "disguise-mechanics",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\disguise-mechanics.md"
+  },
+  {
+    "slug": "disguise",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\disguise.md"
+  },
+  {
+    "slug": "dorsal-attention-network-dominance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dorsal-attention-network-dominance.md"
+  },
+  {
+    "slug": "dorsiflexion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dorsiflexion.md"
+  },
+  {
+    "slug": "double-pendulum-and-energy-transfer",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\double-pendulum-and-energy-transfer.md"
+  },
+  {
+    "slug": "double-pendulum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\double-pendulum.md"
+  },
+  {
+    "slug": "double-bend-structure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\double-bend-structure.md"
+  },
+  {
+    "slug": "doubles-tactics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\doubles-tactics.md"
+  },
+  {
+    "slug": "drop-on-edge",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\drop-on-edge.md"
+  },
+  {
+    "slug": "drop-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\drop-volley.md"
+  },
+  {
+    "slug": "drop-shot-trap",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\drop-shot-trap.md"
+  },
+  {
+    "slug": "dual-forehand-history",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dual-forehand-history.md"
+  },
+  {
+    "slug": "dual-track-structure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\dual-track-structure.md"
+  },
+  {
+    "slug": "dynamic-energy-transfer-(det)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\dynamic-energy-transfer-(det).md"
+  },
+  {
+    "slug": "dynamic-net-interception",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\dynamic-net-interception.md"
+  },
+  {
+    "slug": "earn-your-way-to-the-net-protocol",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\earn-your-way-to-the-net-protocol.md"
+  },
+  {
+    "slug": "earth-battery",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\earth-battery.md"
+  },
+  {
+    "slug": "eccentric-deceleration-and-the-lasso-finish",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\eccentric-deceleration-and-the-lasso-finish.md"
+  },
+  {
+    "slug": "eccentric-deceleration-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\eccentric-deceleration-training.md"
+  },
+  {
+    "slug": "eccentric-deceleration",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\eccentric-deceleration.md"
+  },
+  {
+    "slug": "eccentric-loading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\eccentric-loading.md"
+  },
+  {
+    "slug": "ecological-dynamics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ecological-dynamics.md"
+  },
+  {
+    "slug": "effortless-power",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\effortless-power.md"
+  },
+  {
+    "slug": "eight-stage-serve-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\eight-stage-serve-model.md"
+  },
+  {
+    "slug": "elastic-energy-(năng-lượng-đàn-hồi)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\elastic-energy-(năng-lượng-đàn-hồi).md"
+  },
+  {
+    "slug": "elastic-energy-loading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\elastic-energy-loading.md"
+  },
+  {
+    "slug": "elastic-energy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\elastic-energy.md"
+  },
+  {
+    "slug": "elastic-potential-energy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\elastic-potential-energy.md"
+  },
+  {
+    "slug": "elastic-recoil-model",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\elastic-recoil-model.md"
+  },
+  {
+    "slug": "embodied-cognition",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\embodied-cognition.md"
+  },
+  {
+    "slug": "emotional-regulation",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\emotional-regulation.md"
+  },
+  {
+    "slug": "error-tendency-heatmaps",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\error-tendency-heatmaps.md"
+  },
+  {
+    "slug": "explicit-control",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\explicit-control.md"
+  },
+  {
+    "slug": "explicit-vs-implicit-control",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\explicit-vs-implicit-control.md"
+  },
+  {
+    "slug": "explosive-braking",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\explosive-braking.md"
+  },
+  {
+    "slug": "explosive-durability",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\explosive-durability.md"
+  },
+  {
+    "slug": "extended-mind-theory",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\extended-mind-theory.md"
+  },
+  {
+    "slug": "external-cue-principle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\external-cue-principle.md"
+  },
+  {
+    "slug": "fascia-dynamics",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\fascia-dynamics.md"
+  },
+  {
+    "slug": "fascial-elasticity-vs-hypertrophy",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\fascial-elasticity-vs-hypertrophy.md"
+  },
+  {
+    "slug": "fascial-tone-and-kình",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\fascial-tone-and-kình.md"
+  },
+  {
+    "slug": "fast-twitch-explosivity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\fast-twitch-explosivity.md"
+  },
+  {
+    "slug": "fault-tolerant-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\fault-tolerant-forehand.md"
+  },
+  {
+    "slug": "fault-tolerant-technique",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\fault-tolerant-technique.md"
+  },
+  {
+    "slug": "fear-of-failure",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\fear-of-failure.md"
+  },
+  {
+    "slug": "fence-drill",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\fence-drill.md"
+  },
+  {
+    "slug": "figure-skater-effect",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\figure-skater-effect.md"
+  },
+  {
+    "slug": "first-step-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\first-step-mechanics.md"
+  },
+  {
+    "slug": "flow-state-(trạng-thái-dòng-chảy)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\flow-state-(trạng-thái-dòng-chảy).md"
+  },
+  {
+    "slug": "flow-state-and-satori",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow-state-and-satori.md"
+  },
+  {
+    "slug": "flow-state",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow-state.md"
+  },
+  {
+    "slug": "flow-state-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow-state-1.md"
+  },
+  {
+    "slug": "flow-state-3",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow-state-3.md"
+  },
+  {
+    "slug": "flow-state-4",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow-state-4.md"
+  },
+  {
+    "slug": "flow,-mushin,-and-satori",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\flow,-mushin,-and-satori.md"
+  },
+  {
+    "slug": "follow-through",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\follow-through.md"
+  },
+  {
+    "slug": "follow-through-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\follow-through-1.md"
+  },
+  {
+    "slug": "footwork-anchor",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\footwork-anchor.md"
+  },
+  {
+    "slug": "forehand-architecture",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\forehand-architecture.md"
+  },
+  {
+    "slug": "forehand-biomechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\forehand-biomechanics.md"
+  },
+  {
+    "slug": "forehand-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\forehand-mechanics.md"
+  },
+  {
+    "slug": "forehand-stance-selection",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\forehand-stance-selection.md"
+  },
+  {
+    "slug": "forehand-superiority",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\forehand-superiority.md"
+  },
+  {
+    "slug": "game-of-7",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\game-of-7.md"
+  },
+  {
+    "slug": "gaze-anchor-—-quiet-eye",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gaze-anchor-—-quiet-eye.md"
+  },
+  {
+    "slug": "geometric-midpoints",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\geometric-midpoints.md"
+  },
+  {
+    "slug": "geometric-recovery",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\geometric-recovery.md"
+  },
+  {
+    "slug": "ghosting-pivot",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ghosting-pivot.md"
+  },
+  {
+    "slug": "glycogen-management",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\glycogen-management.md"
+  },
+  {
+    "slug": "glycogen-window",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\glycogen-window.md"
+  },
+  {
+    "slug": "gravity-drop-&-the-slot",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-drop-&-the-slot.md"
+  },
+  {
+    "slug": "gravity-drop",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-drop.md"
+  },
+  {
+    "slug": "gravity-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-step.md"
+  },
+  {
+    "slug": "gravity-step-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-step-1.md"
+  },
+  {
+    "slug": "gravity-step-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-step-2.md"
+  },
+  {
+    "slug": "gravity-step-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\gravity-step-3.md"
+  },
+  {
+    "slug": "grf-specialist-profile",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grf-specialist-profile.md"
+  },
+  {
+    "slug": "grip-anchor-—-bevel-2-and-base-knuckle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-anchor-—-bevel-2-and-base-knuckle.md"
+  },
+  {
+    "slug": "grip-dynamics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-dynamics.md"
+  },
+  {
+    "slug": "grip-pressure-and-the-kinetic-chain",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-pressure-and-the-kinetic-chain.md"
+  },
+  {
+    "slug": "grip-pressure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-pressure.md"
+  },
+  {
+    "slug": "grip-pulse-timing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-pulse-timing.md"
+  },
+  {
+    "slug": "grip-pulse",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-pulse.md"
+  },
+  {
+    "slug": "grip-reference-table",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-reference-table.md"
+  },
+  {
+    "slug": "grip-tension-and-racket-speed",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-tension-and-racket-speed.md"
+  },
+  {
+    "slug": "grip-tension",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\grip-tension.md"
+  },
+  {
+    "slug": "ground-reaction-force-(grf)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force-(grf).md"
+  },
+  {
+    "slug": "ground-reaction-force-(grf)1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force-(grf)1.md"
+  },
+  {
+    "slug": "ground-reaction-force-(grf)-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force-(grf)-1.md"
+  },
+  {
+    "slug": "ground-reaction-force-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force-balance.md"
+  },
+  {
+    "slug": "ground-reaction-force",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force.md"
+  },
+  {
+    "slug": "ground-reaction-force-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-force-1.md"
+  },
+  {
+    "slug": "ground-reaction-forces-(grf)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces-(grf).md"
+  },
+  {
+    "slug": "ground-reaction-forces-(grf)-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces-(grf)-1.md"
+  },
+  {
+    "slug": "ground-reaction-forces",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces.md"
+  },
+  {
+    "slug": "ground-reaction-forces-1",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\ground-reaction-forces-1.md"
+  },
+  {
+    "slug": "ground-reaction-forces-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces-2.md"
+  },
+  {
+    "slug": "ground-reaction-forces-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces-3.md"
+  },
+  {
+    "slug": "ground-reaction-forces-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ground-reaction-forces-4.md"
+  },
+  {
+    "slug": "groundstroke-engram",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\groundstroke-engram.md"
+  },
+  {
+    "slug": "half-volley-—-bounce-energy-reflection",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\half-volley-—-bounce-energy-reflection.md"
+  },
+  {
+    "slug": "hammer-whip",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hammer-whip.md"
+  },
+  {
+    "slug": "hanging-left-arm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hanging-left-arm.md"
+  },
+  {
+    "slug": "hard-court-sliding-(alcaraz-application)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hard-court-sliding-(alcaraz-application).md"
+  },
+  {
+    "slug": "hard-court-sliding",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hard-court-sliding.md"
+  },
+  {
+    "slug": "hard-court-slide",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hard-court-slide.md"
+  },
+  {
+    "slug": "head-bounce-and-visual-blur",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\head-bounce-and-visual-blur.md"
+  },
+  {
+    "slug": "heavy-approach",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\heavy-approach.md"
+  },
+  {
+    "slug": "height-change-tactics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\height-change-tactics.md"
+  },
+  {
+    "slug": "hesba",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hesba.md"
+  },
+  {
+    "slug": "high-volley-termination",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\high-volley-termination.md"
+  },
+  {
+    "slug": "high-ball-backhand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\high-ball-backhand.md"
+  },
+  {
+    "slug": "high-elbow-backswing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\high-elbow-backswing.md"
+  },
+  {
+    "slug": "hip-clearance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hip-clearance.md"
+  },
+  {
+    "slug": "hips-first-principle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\hips-first-principle.md"
+  },
+  {
+    "slug": "horizontal-grf-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\horizontal-grf-1.md"
+  },
+  {
+    "slug": "hrv-load-management",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\hrv-load-management.md"
+  },
+  {
+    "slug": "hrv-guided-training",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\hrv-guided-training.md"
+  },
+  {
+    "slug": "hydration-and-blood-plasma-volume",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\hydration-and-blood-plasma-volume.md"
+  },
+  {
+    "slug": "hydration-and-electrolytes",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\hydration-and-electrolytes.md"
+  },
+  {
+    "slug": "ice-in-veins-threshold",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ice-in-veins-threshold.md"
+  },
+  {
+    "slug": "implicit-control",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\implicit-control.md"
+  },
+  {
+    "slug": "implicit-decision-trees",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\implicit-decision-trees.md"
+  },
+  {
+    "slug": "initiative-stealing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\initiative-stealing.md"
+  },
+  {
+    "slug": "initiative-stealing-1",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\initiative-stealing-1.md"
+  },
+  {
+    "slug": "intention-→-action-→-manifestation",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\intention-→-action-→-manifestation.md"
+  },
+  {
+    "slug": "intention-led-movement",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\intention-led-movement.md"
+  },
+  {
+    "slug": "internal-rotation-and-pronation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-rotation-and-pronation.md"
+  },
+  {
+    "slug": "internal-shoulder-rotation-(isr)-as-primary-power-source",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation-(isr)-as-primary-power-source.md"
+  },
+  {
+    "slug": "internal-shoulder-rotation-(isr)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation-(isr).md"
+  },
+  {
+    "slug": "internal-shoulder-rotation-(isr)-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation-(isr)-1.md"
+  },
+  {
+    "slug": "internal-shoulder-rotation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation.md"
+  },
+  {
+    "slug": "internal-shoulder-rotation-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation-1.md"
+  },
+  {
+    "slug": "internal-shoulder-rotation-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\internal-shoulder-rotation-2.md"
+  },
+  {
+    "slug": "iron-umbrella",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\iron-umbrella.md"
+  },
+  {
+    "slug": "isometric-&-tendon-loading",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\isometric-&-tendon-loading.md"
+  },
+  {
+    "slug": "isometric-grip-pulse",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\isometric-grip-pulse.md"
+  },
+  {
+    "slug": "jannik-sinner-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\jannik-sinner-model.md"
+  },
+  {
+    "slug": "jin-kình-(勁)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\jin-kình-(勁).md"
+  },
+  {
+    "slug": "kinematic-sequencing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinematic-sequencing.md"
+  },
+  {
+    "slug": "kinetic-anchor",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-anchor.md"
+  },
+  {
+    "slug": "kinetic-chain",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kinetic-chain.md"
+  },
+  {
+    "slug": "kinetic-chain-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-1.md"
+  },
+  {
+    "slug": "kinetic-chain-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-2.md"
+  },
+  {
+    "slug": "kinetic-chain-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-3.md"
+  },
+  {
+    "slug": "kinetic-chain-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-4.md"
+  },
+  {
+    "slug": "kinetic-chain-5",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-5.md"
+  },
+  {
+    "slug": "kinetic-chain-6",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kinetic-chain-6.md"
+  },
+  {
+    "slug": "kinetic-wave",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kinetic-wave.md"
+  },
+  {
+    "slug": "kinetic-chain",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kinetic-chain.md"
+  },
+  {
+    "slug": "kinetic-chain2",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kinetic-chain2.md"
+  },
+  {
+    "slug": "kinh-jin",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kinh-jin.md"
+  },
+  {
+    "slug": "kình-&-grip-pressure-matrix",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kình-&-grip-pressure-matrix.md"
+  },
+  {
+    "slug": "kình-(elastic-muscle-tone)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kình-(elastic-muscle-tone).md"
+  },
+  {
+    "slug": "kình-(structural-tone)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kình-(structural-tone).md"
+  },
+  {
+    "slug": "kình",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\kình.md"
+  },
+  {
+    "slug": "kình-2",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\kình-2.md"
+  },
+  {
+    "slug": "l-shape-integrity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\l-shape-integrity.md"
+  },
+  {
+    "slug": "l-shape-lock",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\l-shape-lock.md"
+  },
+  {
+    "slug": "lag-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\lag-mechanics.md"
+  },
+  {
+    "slug": "lasso-finish",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\lasso-finish.md"
+  },
+  {
+    "slug": "lasso-finish-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\lasso-finish-1.md"
+  },
+  {
+    "slug": "lasso-finish-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\lasso-finish-2.md"
+  },
+  {
+    "slug": "lefty-forehand-drill",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\lefty-forehand-drill.md"
+  },
+  {
+    "slug": "leg-drive",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\leg-drive.md"
+  },
+  {
+    "slug": "leg-stiffness",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\leg-stiffness.md"
+  },
+  {
+    "slug": "leg-stiffness-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\leg-stiffness-1.md"
+  },
+  {
+    "slug": "let-it-bounce-—-decision-matrix",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\let-it-bounce-—-decision-matrix.md"
+  },
+  {
+    "slug": "letting-it-happen",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\letting-it-happen.md"
+  },
+  {
+    "slug": "li-vs-jin-muscle-tone-and-elastic-tension",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\li-vs-jin-muscle-tone-and-elastic-tension.md"
+  },
+  {
+    "slug": "linear-momentum-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\linear-momentum-volley.md"
+  },
+  {
+    "slug": "linear-momentum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\linear-momentum.md"
+  },
+  {
+    "slug": "linear-periodisation-failure",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\linear-periodisation-failure.md"
+  },
+  {
+    "slug": "linear-vs-angular-momentum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\linear-vs-angular-momentum.md"
+  },
+  {
+    "slug": "linear-to-angular-conversion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\linear-to-angular-conversion.md"
+  },
+  {
+    "slug": "loaded-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\loaded-balance.md"
+  },
+  {
+    "slug": "loss-aversion-and-tactical-bias",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\loss-aversion-and-tactical-bias.md"
+  },
+  {
+    "slug": "martial-agentic-framework",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\martial-agentic-framework.md"
+  },
+  {
+    "slug": "match-execution-framework",
+    "category": "handbooks",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\handbooks\\match-execution-framework.md"
+  },
+  {
+    "slug": "match-momentum",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\match-momentum.md"
+  },
+  {
+    "slug": "mechanical-leak",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mechanical-leak.md"
+  },
+  {
+    "slug": "medvedev-—-forehand-profile",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\medvedev-—-forehand-profile.md"
+  },
+  {
+    "slug": "mental-game",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mental-game.md"
+  },
+  {
+    "slug": "mental-toughness",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mental-toughness.md"
+  },
+  {
+    "slug": "mental-toughness-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mental-toughness-1.md"
+  },
+  {
+    "slug": "micro-chunking-protocol",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\micro-chunking-protocol.md"
+  },
+  {
+    "slug": "micro-loading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\micro-loading.md"
+  },
+  {
+    "slug": "mogul-move",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mogul-move.md"
+  },
+  {
+    "slug": "moment-of-inertia",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\moment-of-inertia.md"
+  },
+  {
+    "slug": "moment-of-inertia-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\moment-of-inertia-1.md"
+  },
+  {
+    "slug": "momentum-management-and-treeing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\momentum-management-and-treeing.md"
+  },
+  {
+    "slug": "momentum-management",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\momentum-management.md"
+  },
+  {
+    "slug": "momentum-preloading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\momentum-preloading.md"
+  },
+  {
+    "slug": "moonball-reset",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\moonball-reset.md"
+  },
+  {
+    "slug": "morphology-specific-biomechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\morphology-specific-biomechanics.md"
+  },
+  {
+    "slug": "motor-engram",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\motor-engram.md"
+  },
+  {
+    "slug": "motor-engram-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\motor-engram-1.md"
+  },
+  {
+    "slug": "motor-engrams",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\motor-engrams.md"
+  },
+  {
+    "slug": "motor-memory",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\motor-memory.md"
+  },
+  {
+    "slug": "motor-signature",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\motor-signature.md"
+  },
+  {
+    "slug": "movement-architecture",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\movement-architecture.md"
+  },
+  {
+    "slug": "mtp-flexor-strength",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mtp-flexor-strength.md"
+  },
+  {
+    "slug": "mu-beta-suppression",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mu-beta-suppression.md"
+  },
+  {
+    "slug": "mu-wave-suppression",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mu-wave-suppression.md"
+  },
+  {
+    "slug": "multi-sensory-imagery-loading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\multi-sensory-imagery-loading.md"
+  },
+  {
+    "slug": "muscle-memory-fallacy",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\muscle-memory-fallacy.md"
+  },
+  {
+    "slug": "muscle-memory-myth",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\muscle-memory-myth.md"
+  },
+  {
+    "slug": "muscle-memory-myth-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\muscle-memory-myth-1.md"
+  },
+  {
+    "slug": "mushin-and-satori",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\mushin-and-satori.md"
+  },
+  {
+    "slug": "mushin-state",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mushin-state.md"
+  },
+  {
+    "slug": "mushin-state-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mushin-state-1.md"
+  },
+  {
+    "slug": "mushin",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mushin.md"
+  },
+  {
+    "slug": "mushin-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mushin-1.md"
+  },
+  {
+    "slug": "mushin-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mushin-2.md"
+  },
+  {
+    "slug": "mushin-3",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mushin-3.md"
+  },
+  {
+    "slug": "mushin-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\mushin-4.md"
+  },
+  {
+    "slug": "mushin-6",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\mushin-6.md"
+  },
+  {
+    "slug": "myelinated-motor-engrams",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\myelinated-motor-engrams.md"
+  },
+  {
+    "slug": "myelination-and-motor-engrams",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\myelination-and-motor-engrams.md"
+  },
+  {
+    "slug": "myelination",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\myelination.md"
+  },
+  {
+    "slug": "myelination-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\myelination-1.md"
+  },
+  {
+    "slug": "myofascial-slings",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\myofascial-slings.md"
+  },
+  {
+    "slug": "naive-practice",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\naive-practice.md"
+  },
+  {
+    "slug": "naive-practice",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\naive-practice.md"
+  },
+  {
+    "slug": "net-play",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\net-play.md"
+  },
+  {
+    "slug": "neural-bracing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neural-bracing.md"
+  },
+  {
+    "slug": "neural-pressure-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neural-pressure-training.md"
+  },
+  {
+    "slug": "neural-pressure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neural-pressure.md"
+  },
+  {
+    "slug": "neural-pressure-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\neural-pressure-1.md"
+  },
+  {
+    "slug": "neural-reversion",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\neural-reversion.md"
+  },
+  {
+    "slug": "neural-temperature-protocol",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\neural-temperature-protocol.md"
+  },
+  {
+    "slug": "neuro-biological-border",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neuro-biological-border.md"
+  },
+  {
+    "slug": "neuro-biomechanical-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neuro-biomechanical-tennis.md"
+  },
+  {
+    "slug": "neuro-kinetic-fusion-(nkf)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\neuro-kinetic-fusion-(nkf).md"
+  },
+  {
+    "slug": "neutralisation-mindset",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\neutralisation-mindset.md"
+  },
+  {
+    "slug": "new-paradigm-tennis",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\new-paradigm-tennis.md"
+  },
+  {
+    "slug": "non-dominant-arm-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-arm-balance.md"
+  },
+  {
+    "slug": "non-dominant-arm-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-arm-training.md"
+  },
+  {
+    "slug": "non-dominant-arm-tuck",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-arm-tuck.md"
+  },
+  {
+    "slug": "non-dominant-arm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-arm.md"
+  },
+  {
+    "slug": "non-dominant-arm-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-arm-1.md"
+  },
+  {
+    "slug": "non-dominant-hand-anchor",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-hand-anchor.md"
+  },
+  {
+    "slug": "non-dominant-hand-as-engine",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-hand-as-engine.md"
+  },
+  {
+    "slug": "non-dominant-hand-as-engine-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-dominant-hand-as-engine-1.md"
+  },
+  {
+    "slug": "non-hitting-arm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-hitting-arm.md"
+  },
+  {
+    "slug": "non-hitting-arm1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-hitting-arm1.md"
+  },
+  {
+    "slug": "non-judgmental-observation",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\non-judgmental-observation.md"
+  },
+  {
+    "slug": "non-judgmental-observation-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\non-judgmental-observation-2.md"
+  },
+  {
+    "slug": "novak-djokovic-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\novak-djokovic-model.md"
+  },
+  {
+    "slug": "novak-djokovic-—-forehand-profile",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\novak-djokovic-—-forehand-profile.md"
+  },
+  {
+    "slug": "ocular-cervical-decoupling",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ocular-cervical-decoupling.md"
+  },
+  {
+    "slug": "off-arm-chambering",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\off-arm-chambering.md"
+  },
+  {
+    "slug": "old-knowledge-vs-2026-audit",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\old-knowledge-vs-2026-audit.md"
+  },
+  {
+    "slug": "old-knowledge-vs-new-knowledge",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\old-knowledge-vs-new-knowledge.md"
+  },
+  {
+    "slug": "old-paradigm-tennis",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\old-paradigm-tennis.md"
+  },
+  {
+    "slug": "one-handed-backhand-(1hbh)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\one-handed-backhand-(1hbh).md"
+  },
+  {
+    "slug": "one-handed-backhand-counter-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\one-handed-backhand-counter-balance.md"
+  },
+  {
+    "slug": "ooda-loop",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ooda-loop.md"
+  },
+  {
+    "slug": "open-stance-forehand-weight-loading",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\open-stance-forehand-weight-loading.md"
+  },
+  {
+    "slug": "open-stance-vs-closed-stance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\open-stance-vs-closed-stance.md"
+  },
+  {
+    "slug": "open-stance-vs-neutral-stance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\open-stance-vs-neutral-stance.md"
+  },
+  {
+    "slug": "open-stance-vs-neutral-stance-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\open-stance-vs-neutral-stance-1.md"
+  },
+  {
+    "slug": "open-stance",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\open-stance.md"
+  },
+  {
+    "slug": "opponent-reading-drills",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\opponent-reading-drills.md"
+  },
+  {
+    "slug": "out-wide-brake",
+    "category": "fitness",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\fitness\\out-wide-brake.md"
+  },
+  {
+    "slug": "overlapping-dual-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\overlapping-dual-forehand.md"
+  },
+  {
+    "slug": "paralysis-by-analysis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\paralysis-by-analysis.md"
+  },
+  {
+    "slug": "passenger-mentality",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\passenger-mentality.md"
+  },
+  {
+    "slug": "passive-lag",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\passive-lag.md"
+  },
+  {
+    "slug": "pat-the-dog",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pat-the-dog.md"
+  },
+  {
+    "slug": "pattern-mapping",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\pattern-mapping.md"
+  },
+  {
+    "slug": "pattern-recognition",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\pattern-recognition.md"
+  },
+  {
+    "slug": "pelvic-snap",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pelvic-snap.md"
+  },
+  {
+    "slug": "percentage-tennis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\percentage-tennis.md"
+  },
+  {
+    "slug": "percentage-tennis1",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\percentage-tennis1.md"
+  },
+  {
+    "slug": "percentage-tennis-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\percentage-tennis-1.md"
+  },
+  {
+    "slug": "percentage-tennis-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\percentage-tennis-2.md"
+  },
+  {
+    "slug": "percentage-tennis-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\percentage-tennis-3.md"
+  },
+  {
+    "slug": "perceptual-matrix",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\perceptual-matrix.md"
+  },
+  {
+    "slug": "perfectionism-and-the-error-budget",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\perfectionism-and-the-error-budget.md"
+  },
+  {
+    "slug": "performance-anxiety",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\performance-anxiety.md"
+  },
+  {
+    "slug": "performance-cliff",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\performance-cliff.md"
+  },
+  {
+    "slug": "periodization",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\periodization.md"
+  },
+  {
+    "slug": "petit-bras-and-angular-momentum",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-and-angular-momentum.md"
+  },
+  {
+    "slug": "petit-bras-under-pressure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-under-pressure.md"
+  },
+  {
+    "slug": "petit-bras",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras.md"
+  },
+  {
+    "slug": "petit-bras-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-1.md"
+  },
+  {
+    "slug": "petit-bras-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-2.md"
+  },
+  {
+    "slug": "petit-bras-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-3.md"
+  },
+  {
+    "slug": "petit-bras-4",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\petit-bras-4.md"
+  },
+  {
+    "slug": "petit-bras-6",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-6.md"
+  },
+  {
+    "slug": "petit-bras-7",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\petit-bras-7.md"
+  },
+  {
+    "slug": "pinpoint-stance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pinpoint-stance.md"
+  },
+  {
+    "slug": "plantar-flexion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\plantar-flexion.md"
+  },
+  {
+    "slug": "plus-one-principle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\plus-one-principle.md"
+  },
+  {
+    "slug": "positive-and-negative-balance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\positive-and-negative-balance.md"
+  },
+  {
+    "slug": "power-triangle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\power-triangle.md"
+  },
+  {
+    "slug": "pre-habilitation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pre-habilitation.md"
+  },
+  {
+    "slug": "pre-performance-imagery",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\pre-performance-imagery.md"
+  },
+  {
+    "slug": "pre-point-ritual-as-gating-mechanism",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pre-point-ritual-as-gating-mechanism.md"
+  },
+  {
+    "slug": "pre-serve-ball-bounce-—-cns-priming-ritual",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\pre-serve-ball-bounce-—-cns-priming-ritual.md"
+  },
+  {
+    "slug": "pre-stiffening",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pre-stiffening.md"
+  },
+  {
+    "slug": "predictive-processing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\predictive-processing.md"
+  },
+  {
+    "slug": "predictive-saccades",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\predictive-saccades.md"
+  },
+  {
+    "slug": "predictive-saccades-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\predictive-saccades-1.md"
+  },
+  {
+    "slug": "predictive-saccades-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\predictive-saccades-2.md"
+  },
+  {
+    "slug": "predictive-saccades-3",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\predictive-saccades-3.md"
+  },
+  {
+    "slug": "prefrontal-cortex-interference",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\prefrontal-cortex-interference.md"
+  },
+  {
+    "slug": "prefrontal-cortex-reversion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\prefrontal-cortex-reversion.md"
+  },
+  {
+    "slug": "prefrontal-cortex",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\prefrontal-cortex.md"
+  },
+  {
+    "slug": "present-moment-focus",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\present-moment-focus.md"
+  },
+  {
+    "slug": "pressure-management",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\pressure-management.md"
+  },
+  {
+    "slug": "process-focus",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\process-focus.md"
+  },
+  {
+    "slug": "pronation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\pronation.md"
+  },
+  {
+    "slug": "proprioception-(cảm-thụ-bản-thể)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\proprioception-(cảm-thụ-bản-thể).md"
+  },
+  {
+    "slug": "proprioception-and-haptic-feedback",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\proprioception-and-haptic-feedback.md"
+  },
+  {
+    "slug": "proprioception",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\proprioception.md"
+  },
+  {
+    "slug": "proximal-to-distal-chain",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\proximal-to-distal-chain.md"
+  },
+  {
+    "slug": "proximal-to-distal-sequencing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\proximal-to-distal-sequencing.md"
+  },
+  {
+    "slug": "proximal-to-distal-sequencing-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\proximal-to-distal-sequencing-1.md"
+  },
+  {
+    "slug": "psychological-anchor",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\psychological-anchor.md"
+  },
+  {
+    "slug": "quiet-eye-and-predictive-saccades",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\quiet-eye-and-predictive-saccades.md"
+  },
+  {
+    "slug": "quiet-eye-state",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-state.md"
+  },
+  {
+    "slug": "quiet-eye",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye.md"
+  },
+  {
+    "slug": "quiet-eye-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-1.md"
+  },
+  {
+    "slug": "quiet-eye-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-2.md"
+  },
+  {
+    "slug": "quiet-eye-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-3.md"
+  },
+  {
+    "slug": "quiet-eye-5",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-5.md"
+  },
+  {
+    "slug": "quiet-eye-6",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\quiet-eye-6.md"
+  },
+  {
+    "slug": "quiet-eye-7",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\quiet-eye-7.md"
+  },
+  {
+    "slug": "racket-centre-of-mass-and-structural-integrity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\racket-centre-of-mass-and-structural-integrity.md"
+  },
+  {
+    "slug": "racket-lag",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\racket-lag.md"
+  },
+  {
+    "slug": "radar-arm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\radar-arm.md"
+  },
+  {
+    "slug": "rafael-nadal-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\rafael-nadal-model.md"
+  },
+  {
+    "slug": "rafael-nadal-—-forehand-profile",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\rafael-nadal-—-forehand-profile.md"
+  },
+  {
+    "slug": "rate-of-force-development",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\rate-of-force-development.md"
+  },
+  {
+    "slug": "reactionary-wall",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\reactionary-wall.md"
+  },
+  {
+    "slug": "reactive-mode",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\reactive-mode.md"
+  },
+  {
+    "slug": "recovery-as-rebalancing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\recovery-as-rebalancing.md"
+  },
+  {
+    "slug": "reinforcement-learning",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\reinforcement-learning.md"
+  },
+  {
+    "slug": "relax-vs-structural-tone",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\relax-vs-structural-tone.md"
+  },
+  {
+    "slug": "relaxed-concentration",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\relaxed-concentration.md"
+  },
+  {
+    "slug": "representative-learning-design",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\representative-learning-design.md"
+  },
+  {
+    "slug": "retrospective-cycle",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\retrospective-cycle.md"
+  },
+  {
+    "slug": "return-and-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-and-volley.md"
+  },
+  {
+    "slug": "return-architecture",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-architecture.md"
+  },
+  {
+    "slug": "return-box-drill",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-box-drill.md"
+  },
+  {
+    "slug": "return-of-serve-under-pressure",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-of-serve-under-pressure.md"
+  },
+  {
+    "slug": "return-of-serve",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-of-serve.md"
+  },
+  {
+    "slug": "return-of-serve1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-of-serve1.md"
+  },
+  {
+    "slug": "return-of-serve-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-of-serve-1.md"
+  },
+  {
+    "slug": "return-positioning",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-positioning.md"
+  },
+  {
+    "slug": "return-and-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\return-and-volley.md"
+  },
+  {
+    "slug": "reverse-serve",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\reverse-serve.md"
+  },
+  {
+    "slug": "rhythm-&-relaxation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\rhythm-&-relaxation.md"
+  },
+  {
+    "slug": "right-hand-dominance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\right-hand-dominance.md"
+  },
+  {
+    "slug": "ritual-consistency-metrics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ritual-consistency-metrics.md"
+  },
+  {
+    "slug": "roger-federer-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\roger-federer-model.md"
+  },
+  {
+    "slug": "roger-federer-—-forehand-profile",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\roger-federer-—-forehand-profile.md"
+  },
+  {
+    "slug": "rooting",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\rooting.md"
+  },
+  {
+    "slug": "rotator-cuff-impingement",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\rotator-cuff-impingement.md"
+  },
+  {
+    "slug": "rotator-cuff-overload",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\rotator-cuff-overload.md"
+  },
+  {
+    "slug": "run-around-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\run-around-forehand.md"
+  },
+  {
+    "slug": "satori-state",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\satori-state.md"
+  },
+  {
+    "slug": "satori-state-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\satori-state-1.md"
+  },
+  {
+    "slug": "scapular-dyskinesis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\scapular-dyskinesis.md"
+  },
+  {
+    "slug": "scapular-retraction",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\scapular-retraction.md"
+  },
+  {
+    "slug": "scapular-retraction-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\scapular-retraction-1.md"
+  },
+  {
+    "slug": "scoreboard-paradox",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\scoreboard-paradox.md"
+  },
+  {
+    "slug": "scs-rhythm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\scs-rhythm.md"
+  },
+  {
+    "slug": "second-serve-aggression",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\second-serve-aggression.md"
+  },
+  {
+    "slug": "self-1-and-self-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\self-1-and-self-2.md"
+  },
+  {
+    "slug": "self-1-vs-self-2",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\self-1-vs-self-2.md"
+  },
+  {
+    "slug": "self-1-vs-self-2-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\self-1-vs-self-2-1.md"
+  },
+  {
+    "slug": "self-1-vs-self-2-3",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\self-1-vs-self-2-3.md"
+  },
+  {
+    "slug": "self-1-vs-self-2-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\self-1-vs-self-2-4.md"
+  },
+  {
+    "slug": "semi-open-hybrid-stance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\semi-open-hybrid-stance.md"
+  },
+  {
+    "slug": "semi-western-grip",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\semi-western-grip.md"
+  },
+  {
+    "slug": "senior-athlete-performance-(người-chơi-50+)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\senior-athlete-performance-(người-chơi-50+).md"
+  },
+  {
+    "slug": "sensorimotor-calibration",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\sensorimotor-calibration.md"
+  },
+  {
+    "slug": "separation-angle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\separation-angle.md"
+  },
+  {
+    "slug": "separation-timing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\separation-timing.md"
+  },
+  {
+    "slug": "separation-timing-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\separation-timing-1.md"
+  },
+  {
+    "slug": "sequential-braking",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sequential-braking.md"
+  },
+  {
+    "slug": "serve-architecture",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-architecture.md"
+  },
+  {
+    "slug": "serve-backswing-types",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-backswing-types.md"
+  },
+  {
+    "slug": "serve-cartwheel",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-cartwheel.md"
+  },
+  {
+    "slug": "serve-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-mechanics.md"
+  },
+  {
+    "slug": "serve-mechanics1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-mechanics1.md"
+  },
+  {
+    "slug": "serve-reading",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-reading.md"
+  },
+  {
+    "slug": "serve-stance-assessment",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\serve-stance-assessment.md"
+  },
+  {
+    "slug": "serve-reading-drill",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\serve-reading-drill.md"
+  },
+  {
+    "slug": "short-to-the-ball",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\short-to-the-ball.md"
+  },
+  {
+    "slug": "sleep-and-neurological-recovery",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\sleep-and-neurological-recovery.md"
+  },
+  {
+    "slug": "sleep-and-recovery",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\sleep-and-recovery.md"
+  },
+  {
+    "slug": "slice-and-topspin",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\slice-and-topspin.md"
+  },
+  {
+    "slug": "slice-as-eccentric-loading-engine",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\slice-as-eccentric-loading-engine.md"
+  },
+  {
+    "slug": "slice-to-topspin-lob",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\slice-to-topspin-lob.md"
+  },
+  {
+    "slug": "sliding-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sliding-mechanics.md"
+  },
+  {
+    "slug": "sliding",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\sliding.md"
+  },
+  {
+    "slug": "slot-quality-sound-diagnostic",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\slot-quality-sound-diagnostic.md"
+  },
+  {
+    "slug": "sneak-attack",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sneak-attack.md"
+  },
+  {
+    "slug": "sneak-attack-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sneak-attack-1.md"
+  },
+  {
+    "slug": "song",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\song.md"
+  },
+  {
+    "slug": "spatial-awareness",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\spatial-awareness.md"
+  },
+  {
+    "slug": "spatial-gating",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\spatial-gating.md"
+  },
+  {
+    "slug": "spatial-gating-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\spatial-gating-1.md"
+  },
+  {
+    "slug": "spiral-engine",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\spiral-engine.md"
+  },
+  {
+    "slug": "split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step.md"
+  },
+  {
+    "slug": "split-step-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step-1.md"
+  },
+  {
+    "slug": "split-step-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step-2.md"
+  },
+  {
+    "slug": "split-step-bounce-—-elastic-energy-loading",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\split-step-bounce-—-elastic-energy-loading.md"
+  },
+  {
+    "slug": "split-step-calibration",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step-calibration.md"
+  },
+  {
+    "slug": "split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step.md"
+  },
+  {
+    "slug": "split-step",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\split-step.md"
+  },
+  {
+    "slug": "spring-bounce-and-gravity-bounce-—-forehand-drop",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\spring-bounce-and-gravity-bounce-—-forehand-drop.md"
+  },
+  {
+    "slug": "sprint-interval-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sprint-interval-model.md"
+  },
+  {
+    "slug": "stance-at-the-baseline",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\stance-at-the-baseline.md"
+  },
+  {
+    "slug": "stance-balance-profiles",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stance-balance-profiles.md"
+  },
+  {
+    "slug": "stance-biomechanics-neutral,-open,-and-closed",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stance-biomechanics-neutral,-open,-and-closed.md"
+  },
+  {
+    "slug": "step-hit-step-cadence",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\step-hit-step-cadence.md"
+  },
+  {
+    "slug": "still-wall-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\still-wall-volley.md"
+  },
+  {
+    "slug": "straight-arm-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\straight-arm-forehand.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend-forehand",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\straight-arm-vs-double-bend-forehand.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend-forehand-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\straight-arm-vs-double-bend-forehand-1.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\straight-arm-vs-double-bend.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend-1",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\straight-arm-vs-double-bend-1.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend-2",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\straight-arm-vs-double-bend-2.md"
+  },
+  {
+    "slug": "straight-arm-vs-double-bend-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\straight-arm-vs-double-bend-3.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle.md"
+  },
+  {
+    "slug": "stretch-zone",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-zone.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-(ssc)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-(ssc).md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-(ssc)-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-(ssc)-1.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-limits",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-limits.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-1.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-2",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\stretch-shortening-cycle-2.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-3.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-4",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\stretch-shortening-cycle-4.md"
+  },
+  {
+    "slug": "stretch-shortening-cycle-5",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stretch-shortening-cycle-5.md"
+  },
+  {
+    "slug": "stroboscopic-training",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\stroboscopic-training.md"
+  },
+  {
+    "slug": "structural-integrity-(cấu-trúc-ổn-định)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\structural-integrity-(cấu-trúc-ổn-định).md"
+  },
+  {
+    "slug": "structural-tone",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\structural-tone.md"
+  },
+  {
+    "slug": "supplementation-protocol",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\supplementation-protocol.md"
+  },
+  {
+    "slug": "sway-fault",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sway-fault.md"
+  },
+  {
+    "slug": "sway-fault-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sway-fault-1.md"
+  },
+  {
+    "slug": "swing-path-and-follow-through-eras",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\swing-path-and-follow-through-eras.md"
+  },
+  {
+    "slug": "sympathetic-activation-and-petit-bras",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\sympathetic-activation-and-petit-bras.md"
+  },
+  {
+    "slug": "sympathetic-nervous-system-activation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sympathetic-nervous-system-activation.md"
+  },
+  {
+    "slug": "sympathetic-nervous-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\sympathetic-nervous-system.md"
+  },
+  {
+    "slug": "system-breakdown",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\system-breakdown.md"
+  },
+  {
+    "slug": "system-coherence",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\system-coherence.md"
+  },
+  {
+    "slug": "system-coherence-1",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\system-coherence-1.md"
+  },
+  {
+    "slug": "tacit-knowledge",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tacit-knowledge.md"
+  },
+  {
+    "slug": "tactical-analysis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tactical-analysis.md"
+  },
+  {
+    "slug": "tactical-analysis-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tactical-analysis-1.md"
+  },
+  {
+    "slug": "tactical-blitz-chess",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tactical-blitz-chess.md"
+  },
+  {
+    "slug": "tactical-center-&-bisector",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\tactical-center-&-bisector.md"
+  },
+  {
+    "slug": "tactical-displacement-formations",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tactical-displacement-formations.md"
+  },
+  {
+    "slug": "tactical-geometry",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\tactical-geometry.md"
+  },
+  {
+    "slug": "taichi-parallel",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\taichi-parallel.md"
+  },
+  {
+    "slug": "taichi-principles",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\taichi-principles.md"
+  },
+  {
+    "slug": "tangential-velocity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tangential-velocity.md"
+  },
+  {
+    "slug": "technical-diagnostic-matrix",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\technical-diagnostic-matrix.md"
+  },
+  {
+    "slug": "tennis-as-embodied-cognition",
+    "category": "system",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\system\\tennis-as-embodied-cognition.md"
+  },
+  {
+    "slug": "tennis-elbow-(lateral-epicondylitis)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tennis-elbow-(lateral-epicondylitis).md"
+  },
+  {
+    "slug": "tennis-future-lab-master-manual",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tennis-future-lab-master-manual.md"
+  },
+  {
+    "slug": "tennis-research-project-—-master-performance-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tennis-research-project-—-master-performance-system.md"
+  },
+  {
+    "slug": "tennis-stroke-evolution",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\tennis-stroke-evolution.md"
+  },
+  {
+    "slug": "thalamic-automaticity",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\thalamic-automaticity.md"
+  },
+  {
+    "slug": "the-120-m-s-neural-edge",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-120-m-s-neural-edge.md"
+  },
+  {
+    "slug": "the-6-1-mass-ratio",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-6-1-mass-ratio.md"
+  },
+  {
+    "slug": "the-70%-efficiency-envelope",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-70%-efficiency-envelope.md"
+  },
+  {
+    "slug": "the-arm-as-transmitter",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-arm-as-transmitter.md"
+  },
+  {
+    "slug": "the-arming-ratio",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-arming-ratio.md"
+  },
+  {
+    "slug": "the-bisector-angle",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-bisector-angle.md"
+  },
+  {
+    "slug": "the-blitz-chess-model",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-blitz-chess-model.md"
+  },
+  {
+    "slug": "the-block-and-drive-return",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-block-and-drive-return.md"
+  },
+  {
+    "slug": "the-bow-principle",
+    "category": "handbooks",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\handbooks\\the-bow-principle.md"
+  },
+  {
+    "slug": "the-chest-engine-pectoral-power-in-the-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-chest-engine-pectoral-power-in-the-volley.md"
+  },
+  {
+    "slug": "the-compact-volley-block-and-stick",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-compact-volley-block-and-stick.md"
+  },
+  {
+    "slug": "the-dantian-cog-as-command-centre",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-dantian-cog-as-command-centre.md"
+  },
+  {
+    "slug": "the-degrees-of-freedom-problem-in-coaching",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-degrees-of-freedom-problem-in-coaching.md"
+  },
+  {
+    "slug": "the-diagnostic-hierarchy-four-com-anchors",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-diagnostic-hierarchy-four-com-anchors.md"
+  },
+  {
+    "slug": "the-dual-engine-framework-rotational-vs-linear-power",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-dual-engine-framework-rotational-vs-linear-power.md"
+  },
+  {
+    "slug": "the-fascial-network-and-proprioception",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-fascial-network-and-proprioception.md"
+  },
+  {
+    "slug": "the-gait-cycle-in-tennis-recovery",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-gait-cycle-in-tennis-recovery.md"
+  },
+  {
+    "slug": "the-gravity-step-and-dynamic-imbalance",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-gravity-step-and-dynamic-imbalance.md"
+  },
+  {
+    "slug": "the-haemodynamic-engine",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-haemodynamic-engine.md"
+  },
+  {
+    "slug": "the-hanging-left-arm-fault",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-hanging-left-arm-fault.md"
+  },
+  {
+    "slug": "the-kinetic-chain-compensation-gradient",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-kinetic-chain-compensation-gradient.md"
+  },
+  {
+    "slug": "the-lasso-finish-vs-across-the-chest-follow-through",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-lasso-finish-vs-across-the-chest-follow-through.md"
+  },
+  {
+    "slug": "the-multiphasic-whip",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-multiphasic-whip.md"
+  },
+  {
+    "slug": "the-perceptual-matrix",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\the-perceptual-matrix.md"
+  },
+  {
+    "slug": "the-power-triangle-and-contact-zone-geometry",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-power-triangle-and-contact-zone-geometry.md"
+  },
+  {
+    "slug": "the-serve-launch-com-vertical-displacement",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-serve-launch-com-vertical-displacement.md"
+  },
+  {
+    "slug": "the-shu-ha-ri-progression",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-shu-ha-ri-progression.md"
+  },
+  {
+    "slug": "the-slot",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-slot.md"
+  },
+  {
+    "slug": "the-slot-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-slot-1.md"
+  },
+  {
+    "slug": "the-soft-zone-flow-state",
+    "category": "psychology",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\psychology\\the-soft-zone-flow-state.md"
+  },
+  {
+    "slug": "the-southpaw-howitzer",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-southpaw-howitzer.md"
+  },
+  {
+    "slug": "the-stable-l-position-and-wrist-biomechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-stable-l-position-and-wrist-biomechanics.md"
+  },
+  {
+    "slug": "the-stretch-shortening-cycle-(ssc)",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-stretch-shortening-cycle-(ssc).md"
+  },
+  {
+    "slug": "the-tapping-the-dog-mechanism",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\the-tapping-the-dog-mechanism.md"
+  },
+  {
+    "slug": "the-tennis-athlete",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-tennis-athlete.md"
+  },
+  {
+    "slug": "the-tennis-athlete-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-tennis-athlete-1.md"
+  },
+  {
+    "slug": "the-tennis-athlete-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-tennis-athlete-2.md"
+  },
+  {
+    "slug": "the-viscoelastic-engine",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-viscoelastic-engine.md"
+  },
+  {
+    "slug": "the-x-factor-hip-shoulder-separation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\the-x-factor-hip-shoulder-separation.md"
+  },
+  {
+    "slug": "thoracic-rotation-evolution",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\thoracic-rotation-evolution.md"
+  },
+  {
+    "slug": "time-deprivation",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\time-deprivation.md"
+  },
+  {
+    "slug": "topspin",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\topspin.md"
+  },
+  {
+    "slug": "tossing-arm-as-rotational-regulator",
+    "category": "players",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\players\\tossing-arm-as-rotational-regulator.md"
+  },
+  {
+    "slug": "touch-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\touch-volley.md"
+  },
+  {
+    "slug": "transient-hypofrontality",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\transient-hypofrontality.md"
+  },
+  {
+    "slug": "transition-zone",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\transition-zone.md"
+  },
+  {
+    "slug": "transitional-net-footwork",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\transitional-net-footwork.md"
+  },
+  {
+    "slug": "trigger-ball-rule",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\trigger-ball-rule.md"
+  },
+  {
+    "slug": "triple-extension",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\triple-extension.md"
+  },
+  {
+    "slug": "triple-flexion-and-deceleration-biomechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\triple-flexion-and-deceleration-biomechanics.md"
+  },
+  {
+    "slug": "triple-flexion",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\triple-flexion.md"
+  },
+  {
+    "slug": "triple-flexion-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\triple-flexion-1.md"
+  },
+  {
+    "slug": "triple-flexion-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\triple-flexion-2.md"
+  },
+  {
+    "slug": "trophy-position",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\trophy-position.md"
+  },
+  {
+    "slug": "troubleshooting-guide",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\troubleshooting-guide.md"
+  },
+  {
+    "slug": "two-handed-backhand-(2hbh)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\two-handed-backhand-(2hbh).md"
+  },
+  {
+    "slug": "two-hander-recovery-speed",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\two-hander-recovery-speed.md"
+  },
+  {
+    "slug": "type-iib-fast-twitch-optimisation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\type-iib-fast-twitch-optimisation.md"
+  },
+  {
+    "slug": "ulnar-and-radial-deviation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\ulnar-and-radial-deviation.md"
+  },
+  {
+    "slug": "undulating-periodisation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\undulating-periodisation.md"
+  },
+  {
+    "slug": "unified-bilateral-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\unified-bilateral-system.md"
+  },
+  {
+    "slug": "unit-turn-&-v-lock",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\unit-turn-&-v-lock.md"
+  },
+  {
+    "slug": "unit-turn-and-v-shape-lock",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\unit-turn-and-v-shape-lock.md"
+  },
+  {
+    "slug": "unit-turn",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\unit-turn.md"
+  },
+  {
+    "slug": "v-shape-lock",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\v-shape-lock.md"
+  },
+  {
+    "slug": "vertical-axis-stability",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vertical-axis-stability.md"
+  },
+  {
+    "slug": "vertical-axis",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vertical-axis.md"
+  },
+  {
+    "slug": "vertical-grf",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vertical-grf.md"
+  },
+  {
+    "slug": "vertical-first-drive",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vertical-first-drive.md"
+  },
+  {
+    "slug": "vestibular-anchor",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\vestibular-anchor.md"
+  },
+  {
+    "slug": "vestibular-system",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vestibular-system.md"
+  },
+  {
+    "slug": "vestibulo-ocular-reflex",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vestibulo-ocular-reflex.md"
+  },
+  {
+    "slug": "vestibulo-ocular-reflex-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vestibulo-ocular-reflex-1.md"
+  },
+  {
+    "slug": "vestibulo-postural-reflex",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\vestibulo-postural-reflex.md"
+  },
+  {
+    "slug": "viscoelastic-engine",
+    "category": "biomechanics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\biomechanics\\viscoelastic-engine.md"
+  },
+  {
+    "slug": "visual-calisthenics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\visual-calisthenics.md"
+  },
+  {
+    "slug": "visual-processing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\visual-processing.md"
+  },
+  {
+    "slug": "visual-training-as-athletic-organ",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\visual-training-as-athletic-organ.md"
+  },
+  {
+    "slug": "volley-footwork-sequence",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\volley-footwork-sequence.md"
+  },
+  {
+    "slug": "volley-mechanics",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\volley-mechanics.md"
+  },
+  {
+    "slug": "volleyball-serve",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\volleyball-serve.md"
+  },
+  {
+    "slug": "vor",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\vor.md"
+  },
+  {
+    "slug": "weekly-integration-schedule",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\weekly-integration-schedule.md"
+  },
+  {
+    "slug": "wicked-learning-environments",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\wicked-learning-environments.md"
+  },
+  {
+    "slug": "windshield-wiper-finish",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\windshield-wiper-finish.md"
+  },
+  {
+    "slug": "windshield-wiper-swing",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\windshield-wiper-swing.md"
+  },
+  {
+    "slug": "winning-patterns",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\winning-patterns.md"
+  },
+  {
+    "slug": "wrist-mechanics-at-the-volley",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\wrist-mechanics-at-the-volley.md"
+  },
+  {
+    "slug": "wuji",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\wuji.md"
+  },
+  {
+    "slug": "x-factor-(shoulder-hip-separation)",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-(shoulder-hip-separation).md"
+  },
+  {
+    "slug": "x-factor-and-torsional-load",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-and-torsional-load.md"
+  },
+  {
+    "slug": "x-factor-stretch",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-stretch.md"
+  },
+  {
+    "slug": "x-factor",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor.md"
+  },
+  {
+    "slug": "x-factor-1",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-1.md"
+  },
+  {
+    "slug": "x-factor-2",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-2.md"
+  },
+  {
+    "slug": "x-factor-3",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-3.md"
+  },
+  {
+    "slug": "x-factor-4",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-4.md"
+  },
+  {
+    "slug": "x-factor-5",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\x-factor-5.md"
+  },
+  {
+    "slug": "zero-past-protocol",
+    "category": "tactics",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\tactics\\zero-past-protocol.md"
+  },
+  {
+    "slug": "zero-plane-violation",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\zero-plane-violation.md"
+  },
+  {
+    "slug": "zero-swing-threshold",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\zero-swing-threshold.md"
+  },
+  {
+    "slug": "zhong-ding",
+    "category": "references",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\references\\zhong-ding.md"
+  },
+  {
+    "slug": "zombie-arm",
+    "category": "technique",
+    "path": "C:\\Users\\Henry\\Documents\\tennis-wiki-en\\docs\\technique\\zombie-arm.md"
+  }
+]
