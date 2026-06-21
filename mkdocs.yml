@@ -117,6 +117,8 @@ nav:
   - References: references/index.md
   - System: system/index.md
   - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
+  - 📘 Tennis Manual: https://henryphamduc.github.io/tennis/
+  - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-phamduc.workers.dev/
 
 # Extra CSS (shared with Vietnamese site)
 extra_css:

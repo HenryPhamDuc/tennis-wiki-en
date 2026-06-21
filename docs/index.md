@@ -4,6 +4,12 @@
 >
 > Compiled from the research system of **Henry Phạm**
 
+> 🌐 **[Đọc bằng tiếng Việt](https://henryPhamDuc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+>
+> 📘 **[Tennis Manual (Master Reference v2)](https://henryPhamDuc.github.io/tennis/)** — Complete bilingual EN-VI coaching manual (22 deep dives + anatomy lab)
+>
+> 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
+
 ## Quick start
 
 <div class="grid cards" markdown>
