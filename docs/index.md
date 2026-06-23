@@ -9,6 +9,10 @@
 > 📘 **[Tennis Manual (Master Reference v2)](https://henryPhamDuc.github.io/tennis/)** — Complete bilingual EN-VI coaching manual (22 deep dives + anatomy lab)
 >
 > 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
+>
+> 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload your tennis video → AI analyzes your technique vs Federer.
+>
+> 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: annotated video + cheat sheet PDF + 0-100 score vs Roger Federer.
 
 ## Quick start
 
