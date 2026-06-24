@@ -69,6 +69,50 @@
     return '../'.repeat(fromBase.length) + 'assets/graph-data.json';
   }
 
+  // Convert a URL like "technique/arming-on-the-volley/" (from graph-data)
+  // into an absolute path that works from any current page depth.
+  // Strategy: replace the page's content path with the relative URL,
+  // stripping the current article's directory.
+  function resolveAbsoluteUrl(relUrl) {
+    if (!relUrl) return '';
+    if (/^https?:\/\//.test(relUrl)) return relUrl;  // already absolute
+    if (relUrl.startsWith('/')) return relUrl;       // already root-absolute
+    const path = window.location.pathname;
+    const segments = path.split('/').filter(Boolean);
+    // Same base-detection as getGraphDataUrl
+    let fromBase = segments.slice();
+    const baseEl = document.querySelector('base[href]');
+    if (baseEl) {
+      const baseHref = baseEl.getAttribute('href').replace(/\/$/, '');
+      try {
+        const baseSegs = new URL(baseHref, window.location.origin).pathname.split('/').filter(Boolean);
+        if (baseSegs.length && baseSegs.length <= fromBase.length &&
+            baseSegs.every((s, i) => s === fromBase[i])) {
+          fromBase = fromBase.slice(baseSegs.length);
+        }
+      } catch(e) { /* ignore */ }
+    }
+    if (!baseEl && segments.length >= 1 && window.location.hostname !== 'localhost' &&
+        window.location.hostname !== '127.0.0.1') {
+      fromBase = segments.slice(1);
+    }
+    // The current article's directory depth (under base) is fromBase.length.
+    // To go from "/<base>/.../article/" to "/<base>/<relUrl>", we need
+    // to go up fromBase.length levels then append relUrl.
+    // But relUrl is already a site-relative path (e.g. "technique/foo/")
+    // — we want "<base> + relUrl".
+    // Build the base from origin + detected base prefix.
+    const basePath = (() => {
+      if (baseEl) return new URL(baseEl.getAttribute('href').replace(/\/$/, ''), window.location.origin).pathname.replace(/\/$/, '');
+      if (segments.length >= 1 && window.location.hostname !== 'localhost' &&
+          window.location.hostname !== '127.0.0.1') {
+        return '/' + segments[0];
+      }
+      return '';
+    })();
+    return basePath + '/' + relUrl.replace(/^\/+/, '');
+  }
+
   function init() {
     const containers = document.querySelectorAll('.graph-view');
     const defaultUrl = getGraphDataUrl();
@@ -260,13 +304,13 @@
         .attr('stroke', d => d.id === centerId ? '#000' : '#fff')
         .attr('stroke-width', d => d.id === centerId ? 2 : 1)
         .style('cursor', 'pointer')
-        .on('click', (event, d) => { if (d.url) window.location.href = d.url; })
+        .on('click', (event, d) => { if (d.url) window.location.href = resolveAbsoluteUrl(d.url); })
         .on('mouseover', function(event, d) {
           const label = (clusterMap[d.cluster] || {}).label || '';
           const articleName = escapeHtml(d.name);
           tooltip.innerHTML = '<strong>' + articleName + '</strong><br>' +
             '<small>' + escapeHtml(label) + ' · ' + (d.degree || 0) + ' links</small><br>' +
-            '<a href="' + d.url + '">Open article →</a>';
+            '<a href="' + escapeHtml(resolveAbsoluteUrl(d.url)) + '">Open article →</a>';
           tooltip.style.display = 'block';
           const connectedIds = new Set([d.id]);
           visibleEdges.forEach(l => {
