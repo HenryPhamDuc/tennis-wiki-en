@@ -598,7 +598,7 @@
 - [Windshield Wiper Swing](windshield-wiper-swing.md)
 - [Wrist Mechanics at the Volley](wrist-mechanics-at-the-volley.md)
 - [X-Factor](x-factor-1.md)
-- [X-Factor](x-factor-2.md)
+- [X-Factor](x-factor.md)
 - [X-Factor](x-factor-3.md)
 - [X-Factor](x-factor-4.md)
 - [X-Factor](x-factor-5.md)

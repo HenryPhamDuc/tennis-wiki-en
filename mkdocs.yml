@@ -116,7 +116,6 @@ nav:
       - bisector-rule: technique/bisector-rule.md
       - body-weight-transfer-—-performance-physics: technique/body-weight-transfer-—-performance-physics.md
       - buggy-whip-lasso-finish: technique/buggy-whip-lasso-finish.md
-      - carlos-alcaraz-—-biomechanical-and-tactical-profile: technique/carlos-alcaraz-—-biomechanical-and-tactical-profile.md
       - carlos-alcaraz-—-forehand-profile: technique/carlos-alcaraz-—-forehand-profile.md
       - coaching-the-forehand: technique/coaching-the-forehand.md
       - contact-point: technique/contact-point.md
@@ -125,12 +124,10 @@ nav:
       - fault-tolerant-forehand: technique/fault-tolerant-forehand.md
       - follow-through-1: technique/follow-through-1.md
       - forehand-architecture: technique/forehand-architecture.md
+      - forehand-biomechanics: technique/forehand-biomechanics.md
       - forehand-mechanics: technique/forehand-mechanics.md
       - forehand-stance-selection: technique/forehand-stance-selection.md
       - forehand-superiority: technique/forehand-superiority.md
-      - grip-dynamics: technique/grip-dynamics.md
-      - grip-reference-table: technique/grip-reference-table.md
-      - heavy-approach: technique/heavy-approach.md
       - hips-first-principle: technique/hips-first-principle.md
       - implicit-control: technique/implicit-control.md
       - internal-shoulder-rotation-1: technique/internal-shoulder-rotation-1.md
@@ -142,14 +139,11 @@ nav:
       - non-dominant-arm-1: technique/non-dominant-arm-1.md
       - non-dominant-hand-as-engine-1: technique/non-dominant-hand-as-engine-1.md
       - novak-djokovic-—-forehand-profile: technique/novak-djokovic-—-forehand-profile.md
-      - open-stance-vs-neutral-stance-1: technique/open-stance-vs-neutral-stance-1.md
       - overlapping-dual-forehand: technique/overlapping-dual-forehand.md
       - rafael-nadal-model: technique/rafael-nadal-model.md
       - rafael-nadal-—-forehand-profile: technique/rafael-nadal-—-forehand-profile.md
       - right-hand-dominance: technique/right-hand-dominance.md
       - roger-federer-model: technique/roger-federer-model.md
-      - semi-open-hybrid-stance: technique/semi-open-hybrid-stance.md
-      - semi-western-grip: technique/semi-western-grip.md
       - separation-timing: technique/separation-timing.md
       - slice-and-topspin: technique/slice-and-topspin.md
       - spring-bounce-and-gravity-bounce-—-forehand-drop: technique/spring-bounce-and-gravity-bounce-—-forehand-drop.md
@@ -171,11 +165,11 @@ nav:
       - unit-turn: technique/unit-turn.md
       - x-factor-stretch: technique/x-factor-stretch.md
     - ↩️ Backhand:
+      - backhand-bermuda-triangle: technique/backhand-bermuda-triangle.md
       - backhand-grips: technique/backhand-grips.md
       - backhand-patterns-of-play: technique/backhand-patterns-of-play.md
       - backhand-slice: technique/backhand-slice.md
       - closed-and-neutral-stance-backhand: technique/closed-and-neutral-stance-backhand.md
-      - closed-stance: technique/closed-stance.md
       - coaching-the-backhand: technique/coaching-the-backhand.md
       - contact-geometry: technique/contact-geometry.md
       - high-ball-backhand: technique/high-ball-backhand.md
@@ -218,24 +212,24 @@ nav:
       - internal-shoulder-rotation-(isr): technique/internal-shoulder-rotation-(isr).md
       - linear-to-angular-conversion: technique/linear-to-angular-conversion.md
       - petit-bras-3: technique/petit-bras-3.md
-      - pinpoint-stance: technique/pinpoint-stance.md
       - predictive-processing: technique/predictive-processing.md
       - predictive-saccades: technique/predictive-saccades.md
       - pronation: technique/pronation.md
       - quiet-eye-2: technique/quiet-eye-2.md
       - radar-arm: technique/radar-arm.md
       - reinforcement-learning: technique/reinforcement-learning.md
-      - return-and-volley: technique/return-and-volley.md
-      - return-box-drill: technique/return-box-drill.md
       - return-of-serve-1: technique/return-of-serve-1.md
       - return-of-serve-under-pressure: technique/return-of-serve-under-pressure.md
       - return-of-serve: technique/return-of-serve.md
       - return-of-serve1: technique/return-of-serve1.md
       - return-positioning: technique/return-positioning.md
+      - reverse-serve: technique/reverse-serve.md
       - second-serve-aggression: technique/second-serve-aggression.md
       - serve-architecture: technique/serve-architecture.md
       - serve-backswing-types: technique/serve-backswing-types.md
+      - serve-cartwheel: technique/serve-cartwheel.md
       - serve-mechanics: technique/serve-mechanics.md
+      - serve-mechanics1: technique/serve-mechanics1.md
       - serve-reading-drill: technique/serve-reading-drill.md
       - serve-reading: technique/serve-reading.md
       - sneak-attack-1: technique/sneak-attack-1.md
@@ -246,7 +240,6 @@ nav:
       - the-hanging-left-arm-fault: technique/the-hanging-left-arm-fault.md
       - the-serve-launch-com-vertical-displacement: technique/the-serve-launch-com-vertical-displacement.md
       - trophy-position: technique/trophy-position.md
-      - visual-training-as-athletic-organ: technique/visual-training-as-athletic-organ.md
       - volleyball-serve: technique/volleyball-serve.md
     - 🎾 Volley & Net:
       - ambidextrous-engrams: technique/ambidextrous-engrams.md
@@ -254,6 +247,7 @@ nav:
       - approach-shot-first-protocol: technique/approach-shot-first-protocol.md
       - approach-shot: technique/approach-shot.md
       - arming-on-the-volley: technique/arming-on-the-volley.md
+      - back-foot-—-volley-and-net-footwork: technique/back-foot-—-volley-and-net-footwork.md
       - body-volley-protocol: technique/body-volley-protocol.md
       - c-to-i-transition: technique/c-to-i-transition.md
       - coaching-net-play: technique/coaching-net-play.md
@@ -263,19 +257,23 @@ nav:
       - grip-pressure: technique/grip-pressure.md
       - groundstroke-engram: technique/groundstroke-engram.md
       - half-volley-—-bounce-energy-reflection: technique/half-volley-—-bounce-energy-reflection.md
+      - heavy-approach: technique/heavy-approach.md
       - high-volley-termination: technique/high-volley-termination.md
       - ice-in-veins-threshold: technique/ice-in-veins-threshold.md
+      - linear-momentum-volley: technique/linear-momentum-volley.md
       - mechanical-leak: technique/mechanical-leak.md
       - motor-engram: technique/motor-engram.md
       - muscle-memory-fallacy: technique/muscle-memory-fallacy.md
       - net-play: technique/net-play.md
       - reactionary-wall: technique/reactionary-wall.md
+      - return-and-volley: technique/return-and-volley.md
       - step-hit-step-cadence: technique/step-hit-step-cadence.md
       - still-wall-volley: technique/still-wall-volley.md
       - the-chest-engine-pectoral-power-in-the-volley: technique/the-chest-engine-pectoral-power-in-the-volley.md
       - the-compact-volley-block-and-stick: technique/the-compact-volley-block-and-stick.md
       - touch-volley: technique/touch-volley.md
       - transition-zone: technique/transition-zone.md
+      - volley-footwork-sequence: technique/volley-footwork-sequence.md
       - volley-mechanics: technique/volley-mechanics.md
       - wrist-mechanics-at-the-volley: technique/wrist-mechanics-at-the-volley.md
       - zero-plane-violation: technique/zero-plane-violation.md
@@ -293,13 +291,11 @@ nav:
       - anticipatory-movement: technique/anticipatory-movement.md
       - arousal-channeling: technique/arousal-channeling.md
       - asymmetrical-split-step: technique/asymmetrical-split-step.md
-      - athletic-stance-and-centre-of-gravity: technique/athletic-stance-and-centre-of-gravity.md
       - atp-pc-system-and-energy-systems: technique/atp-pc-system-and-energy-systems.md
       - autonomic-response-in-tennis: technique/autonomic-response-in-tennis.md
       - back-foot-—-groundstroke-base-and-back-foot-first-principle: technique/back-foot-—-groundstroke-base-and-back-foot-first-principle.md
       - back-foot-—-sliding-and-recovery-step: technique/back-foot-—-sliding-and-recovery-step.md
       - back-foot-—-taxonomy: technique/back-foot-—-taxonomy.md
-      - back-foot-—-volley-and-net-footwork: technique/back-foot-—-volley-and-net-footwork.md
       - biological-abs: technique/biological-abs.md
       - biomechanical-fault-line: technique/biomechanical-fault-line.md
       - bounce-—-taxonomy: technique/bounce-—-taxonomy.md
@@ -321,7 +317,6 @@ nav:
       - head-bounce-and-visual-blur: technique/head-bounce-and-visual-blur.md
       - intention-led-movement: technique/intention-led-movement.md
       - leg-stiffness-1: technique/leg-stiffness-1.md
-      - micro-chunking-protocol: technique/micro-chunking-protocol.md
       - micro-loading: technique/micro-loading.md
       - mogul-move: technique/mogul-move.md
       - motor-signature: technique/motor-signature.md
@@ -337,7 +332,6 @@ nav:
       - split-step-2: technique/split-step-2.md
       - split-step-calibration: technique/split-step-calibration.md
       - split-step: technique/split-step.md
-      - stance-biomechanics-neutral,-open,-and-closed: technique/stance-biomechanics-neutral,-open,-and-closed.md
       - stretch-shortening-cycle-(ssc): technique/stretch-shortening-cycle-(ssc).md
       - stretch-shortening-cycle-1: technique/stretch-shortening-cycle-1.md
       - taichi-parallel: technique/taichi-parallel.md
@@ -349,25 +343,36 @@ nav:
       - triple-flexion-2: technique/triple-flexion-2.md
       - triple-flexion-and-deceleration-biomechanics: technique/triple-flexion-and-deceleration-biomechanics.md
       - vestibulo-postural-reflex: technique/vestibulo-postural-reflex.md
-      - volley-footwork-sequence: technique/volley-footwork-sequence.md
       - weekly-integration-schedule: technique/weekly-integration-schedule.md
     - ✋ Grip & Stance:
       - anticipatory-saccadic-tracking: technique/anticipatory-saccadic-tracking.md
+      - athletic-stance-and-centre-of-gravity: technique/athletic-stance-and-centre-of-gravity.md
+      - closed-stance: technique/closed-stance.md
       - continental-grip-anatomy: technique/continental-grip-anatomy.md
       - dead-hand-finish-1: technique/dead-hand-finish-1.md
       - dead-hand-finish: technique/dead-hand-finish.md
       - disconnect-1: technique/disconnect-1.md
       - grip-anchor-—-bevel-2-and-base-knuckle: technique/grip-anchor-—-bevel-2-and-base-knuckle.md
+      - grip-dynamics: technique/grip-dynamics.md
       - grip-pressure-and-the-kinetic-chain: technique/grip-pressure-and-the-kinetic-chain.md
       - grip-pulse-timing: technique/grip-pulse-timing.md
       - grip-pulse: technique/grip-pulse.md
+      - grip-reference-table: technique/grip-reference-table.md
+      - grip-tension-and-racket-speed: technique/grip-tension-and-racket-speed.md
       - grip-tension: technique/grip-tension.md
       - isometric-grip-pulse: technique/isometric-grip-pulse.md
       - kình-&-grip-pressure-matrix: technique/kình-&-grip-pressure-matrix.md
       - l-shape-integrity: technique/l-shape-integrity.md
+      - open-stance-vs-closed-stance: technique/open-stance-vs-closed-stance.md
+      - open-stance-vs-neutral-stance-1: technique/open-stance-vs-neutral-stance-1.md
+      - pinpoint-stance: technique/pinpoint-stance.md
       - power-triangle: technique/power-triangle.md
       - relax-vs-structural-tone: technique/relax-vs-structural-tone.md
+      - semi-open-hybrid-stance: technique/semi-open-hybrid-stance.md
+      - semi-western-grip: technique/semi-western-grip.md
       - slot-quality-sound-diagnostic: technique/slot-quality-sound-diagnostic.md
+      - stance-balance-profiles: technique/stance-balance-profiles.md
+      - stance-biomechanics-neutral,-open,-and-closed: technique/stance-biomechanics-neutral,-open,-and-closed.md
       - ulnar-and-radial-deviation: technique/ulnar-and-radial-deviation.md
     - 🦴 Biomechanics & Energy:
       - 19-modern-tennis-handbook-2026: technique/19-modern-tennis-handbook-2026.md
@@ -413,7 +418,6 @@ nav:
       - dantian-rotation: technique/dantian-rotation.md
       - deceleration-mechanics: technique/deceleration-mechanics.md
       - degrees-of-freedom: technique/degrees-of-freedom.md
-      - deliberate-practice-and-constraints: technique/deliberate-practice-and-constraints.md
       - disconnect: technique/disconnect.md
       - double-pendulum-and-energy-transfer: technique/double-pendulum-and-energy-transfer.md
       - double-pendulum: technique/double-pendulum.md
@@ -427,9 +431,7 @@ nav:
       - fascial-tone-and-kình: technique/fascial-tone-and-kình.md
       - figure-skater-effect: technique/figure-skater-effect.md
       - follow-through: technique/follow-through.md
-      - forehand-biomechanics: technique/forehand-biomechanics.md
       - grf-specialist-profile: technique/grf-specialist-profile.md
-      - grip-tension-and-racket-speed: technique/grip-tension-and-racket-speed.md
       - ground-reaction-force-(grf)-1: technique/ground-reaction-force-(grf)-1.md
       - ground-reaction-force-(grf): technique/ground-reaction-force-(grf).md
       - ground-reaction-force-(grf)1: technique/ground-reaction-force-(grf)1.md
@@ -461,7 +463,6 @@ nav:
       - leg-drive: technique/leg-drive.md
       - leg-stiffness: technique/leg-stiffness.md
       - li-vs-jin-muscle-tone-and-elastic-tension: technique/li-vs-jin-muscle-tone-and-elastic-tension.md
-      - linear-momentum-volley: technique/linear-momentum-volley.md
       - linear-vs-angular-momentum: technique/linear-vs-angular-momentum.md
       - loaded-balance: technique/loaded-balance.md
       - martial-agentic-framework: technique/martial-agentic-framework.md
@@ -493,8 +494,6 @@ nav:
       - scapular-dyskinesis: technique/scapular-dyskinesis.md
       - separation-timing-1: technique/separation-timing-1.md
       - sequential-braking: technique/sequential-braking.md
-      - serve-cartwheel: technique/serve-cartwheel.md
-      - stance-balance-profiles: technique/stance-balance-profiles.md
       - stretch-shortening-cycle-(ssc)-1: technique/stretch-shortening-cycle-(ssc)-1.md
       - sway-fault: technique/sway-fault.md
       - system-coherence: technique/system-coherence.md
@@ -527,7 +526,6 @@ nav:
       - vestibulo-ocular-reflex: technique/vestibulo-ocular-reflex.md
       - windshield-wiper-finish: technique/windshield-wiper-finish.md
       - x-factor-1: technique/x-factor-1.md
-      - x-factor-2: technique/x-factor-2.md
       - x-factor-3: technique/x-factor-3.md
       - x-factor-4: technique/x-factor-4.md
       - x-factor-5: technique/x-factor-5.md
@@ -543,6 +541,7 @@ nav:
       - basal-ganglia-1: technique/basal-ganglia-1.md
       - basal-ganglia: technique/basal-ganglia.md
       - between-point-ritual-4: technique/between-point-ritual-4.md
+      - coaching-the-mental-game: technique/coaching-the-mental-game.md
       - cognitive-residue: technique/cognitive-residue.md
       - external-cue-principle: technique/external-cue-principle.md
       - kình-(elastic-muscle-tone): technique/kình-(elastic-muscle-tone).md
@@ -557,6 +556,7 @@ nav:
       - neuro-biological-border: technique/neuro-biological-border.md
       - non-judgmental-observation-2: technique/non-judgmental-observation-2.md
       - novak-djokovic-model: technique/novak-djokovic-model.md
+      - passenger-mentality: technique/passenger-mentality.md
       - performance-anxiety: technique/performance-anxiety.md
       - petit-bras-1: technique/petit-bras-1.md
       - petit-bras-2: technique/petit-bras-2.md
@@ -576,6 +576,8 @@ nav:
       - the-diagnostic-hierarchy-four-com-anchors: technique/the-diagnostic-hierarchy-four-com-anchors.md
       - transient-hypofrontality: technique/transient-hypofrontality.md
     - ♟️ Tactics & Patterns:
+      - 3-shot-pattern-design-1: technique/3-shot-pattern-design-1.md
+      - 3-shot-pattern-design: technique/3-shot-pattern-design.md
       - 45-degree-rule-1: technique/45-degree-rule-1.md
       - 45-degree-rule: technique/45-degree-rule.md
       - 70%-rule-&-first-strike-tennis-1: technique/70%-rule-&-first-strike-tennis-1.md
@@ -592,6 +594,7 @@ nav:
       - baseline-to-net-transition: technique/baseline-to-net-transition.md
       - baseline: technique/baseline.md
       - blueprint-champion-1: technique/blueprint-champion-1.md
+      - carlos-alcaraz-—-biomechanical-and-tactical-profile: technique/carlos-alcaraz-—-biomechanical-and-tactical-profile.md
       - cerebellar-autonomic-control: technique/cerebellar-autonomic-control.md
       - cns-fatigue: technique/cns-fatigue.md
       - coaching-tactics: technique/coaching-tactics.md
@@ -601,7 +604,6 @@ nav:
       - cognitive-load-in-tennis: technique/cognitive-load-in-tennis.md
       - counter-puncher's-range: technique/counter-puncher's-range.md
       - cross-court-rally-control: technique/cross-court-rally-control.md
-      - deliberate-practice-1: technique/deliberate-practice-1.md
       - digital-twin: technique/digital-twin.md
       - disguise: technique/disguise.md
       - dorsal-attention-network-dominance: technique/dorsal-attention-network-dominance.md
@@ -619,21 +621,19 @@ nav:
       - let-it-bounce-—-decision-matrix: technique/let-it-bounce-—-decision-matrix.md
       - linear-momentum: technique/linear-momentum.md
       - momentum-management-and-treeing: technique/momentum-management-and-treeing.md
-      - moonball-reset: technique/moonball-reset.md
       - motor-engram-1: technique/motor-engram-1.md
       - muscle-memory-myth-1: technique/muscle-memory-myth-1.md
       - neutralisation-mindset: technique/neutralisation-mindset.md
       - ooda-loop: technique/ooda-loop.md
       - open-stance-vs-neutral-stance: technique/open-stance-vs-neutral-stance.md
       - paralysis-by-analysis: technique/paralysis-by-analysis.md
-      - passenger-mentality: technique/passenger-mentality.md
       - percentage-tennis-1: technique/percentage-tennis-1.md
       - percentage-tennis-2: technique/percentage-tennis-2.md
       - percentage-tennis-3: technique/percentage-tennis-3.md
       - percentage-tennis: technique/percentage-tennis.md
       - plus-one-principle: technique/plus-one-principle.md
       - positive-and-negative-balance: technique/positive-and-negative-balance.md
-      - reverse-serve: technique/reverse-serve.md
+      - slice-to-topspin-lob: technique/slice-to-topspin-lob.md
       - sway-fault-1: technique/sway-fault-1.md
       - tacit-knowledge: technique/tacit-knowledge.md
       - tactical-analysis-1: technique/tactical-analysis-1.md
@@ -648,20 +648,22 @@ nav:
       - 5-year-tennis-mastery-system: technique/5-year-tennis-mastery-system.md
       - anti-rotation-training: technique/anti-rotation-training.md
       - autonomic-reset-protocol: technique/autonomic-reset-protocol.md
-      - backhand-bermuda-triangle: technique/backhand-bermuda-triangle.md
       - ball-tracking-&-central-vision: technique/ball-tracking-&-central-vision.md
       - cns-fatigue-signs: technique/cns-fatigue-signs.md
       - coach-track-—-meta-principles: technique/coach-track-—-meta-principles.md
       - coaching-conditioning: technique/coaching-conditioning.md
-      - coaching-the-mental-game: technique/coaching-the-mental-game.md
       - cognitive-motor-training: technique/cognitive-motor-training.md
       - dantian-&-spinal-axis: technique/dantian-&-spinal-axis.md
+      - deliberate-practice-1: technique/deliberate-practice-1.md
+      - deliberate-practice-and-constraints: technique/deliberate-practice-and-constraints.md
       - deliberate-practice: technique/deliberate-practice.md
       - differential-adaptation: technique/differential-adaptation.md
       - eccentric-deceleration-training: technique/eccentric-deceleration-training.md
       - fence-drill: technique/fence-drill.md
       - hammer-whip: technique/hammer-whip.md
       - lag-mechanics: technique/lag-mechanics.md
+      - micro-chunking-protocol: technique/micro-chunking-protocol.md
+      - moonball-reset: technique/moonball-reset.md
       - muscle-memory-myth: technique/muscle-memory-myth.md
       - myelinated-motor-engrams: technique/myelinated-motor-engrams.md
       - myelination: technique/myelination.md
@@ -669,15 +671,14 @@ nav:
       - neural-pressure-training: technique/neural-pressure-training.md
       - non-dominant-arm-training: technique/non-dominant-arm-training.md
       - non-hitting-arm1: technique/non-hitting-arm1.md
-      - open-stance-vs-closed-stance: technique/open-stance-vs-closed-stance.md
       - opponent-reading-drills: technique/opponent-reading-drills.md
       - pat-the-dog: technique/pat-the-dog.md
       - pre-habilitation: technique/pre-habilitation.md
       - quiet-eye-5: technique/quiet-eye-5.md
+      - return-box-drill: technique/return-box-drill.md
       - rhythm-&-relaxation: technique/rhythm-&-relaxation.md
       - run-around-forehand: technique/run-around-forehand.md
       - separation-angle: technique/separation-angle.md
-      - serve-mechanics1: technique/serve-mechanics1.md
       - short-to-the-ball: technique/short-to-the-ball.md
       - spatial-gating-1: technique/spatial-gating-1.md
       - spiral-engine: technique/spiral-engine.md
@@ -689,12 +690,11 @@ nav:
       - type-iib-fast-twitch-optimisation: technique/type-iib-fast-twitch-optimisation.md
       - undulating-periodisation: technique/undulating-periodisation.md
       - visual-calisthenics: technique/visual-calisthenics.md
+      - visual-training-as-athletic-organ: technique/visual-training-as-athletic-organ.md
       - wicked-learning-environments: technique/wicked-learning-environments.md
       - windshield-wiper-swing: technique/windshield-wiper-swing.md
       - zombie-arm: technique/zombie-arm.md
     - 📐 Shot Geometry:
-      - 3-shot-pattern-design-1: technique/3-shot-pattern-design-1.md
-      - 3-shot-pattern-design: technique/3-shot-pattern-design.md
       - dual-track-structure: technique/dual-track-structure.md
       - gravity-drop: technique/gravity-drop.md
       - high-elbow-backswing: technique/high-elbow-backswing.md
@@ -706,7 +706,6 @@ nav:
       - quiet-eye-state: technique/quiet-eye-state.md
       - rotator-cuff-impingement: technique/rotator-cuff-impingement.md
       - slice-as-eccentric-loading-engine: technique/slice-as-eccentric-loading-engine.md
-      - slice-to-topspin-lob: technique/slice-to-topspin-lob.md
       - the-power-triangle-and-contact-zone-geometry: technique/the-power-triangle-and-contact-zone-geometry.md
     - 🧩 Frameworks & Models:
       - autonomic-nervous-system-in-tennis: technique/autonomic-nervous-system-in-tennis.md
