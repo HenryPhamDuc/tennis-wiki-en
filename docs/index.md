@@ -14,6 +14,17 @@
 >
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: annotated video + cheat sheet PDF + 0-100 score vs Roger Federer.
 
+## 🕸️ Knowledge Graph
+
+Explore the wiki as an interactive network — each node is an article, each line is a wikilink. Hover for details, click to open, drag to rearrange, scroll to zoom.
+
+<div class="graph-view graph-landing" data-mode="full" data-graph-url="assets/graph-data.json" id="graph-view-landing">
+  <div class="graph-loading">Loading graph...</div>
+  <div class="graph-tooltip"></div>
+</div>
+
+*Showing the 300 most-connected articles. Click a cluster in the legend to filter. Click a node to open the article. Drag nodes to rearrange. Scroll to zoom.*
+
 ## Quick start
 
 <div class="grid cards" markdown>

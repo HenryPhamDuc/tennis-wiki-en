@@ -737,9 +737,12 @@ nav:
   - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-phamduc.workers.dev/
 extra_css:
   - assets/tennis-extra.css
+  - assets/graph-component.css
 
 # Extra JS
 extra_javascript:
+  - assets/d3.v7.min.js
+  - assets/graph-component.js
   - assets/tennis-extra.js
 
 # Copyright
