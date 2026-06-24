@@ -50,8 +50,19 @@ document.addEventListener('DOMContentLoaded', () => {
         // Compute article stem from URL path (e.g. /technique/kinetic-chain/ -> kinetic-chain)
         // Use decodeURIComponent to handle URL-encoded chars (Vietnamese diacritics, parens, etc.)
         const pathParts = window.location.pathname.split('/').filter(Boolean);
-        // Strip locale prefix if present
-        let stem = pathParts.length ? pathParts[pathParts.length - 1] : articleTitle;
+        // Strip repo-name prefix for GitHub Pages (e.g. "tennis-wiki" first segment)
+        let fromBase = pathParts.slice();
+        if (!document.querySelector('base[href]') &&
+            window.location.hostname !== 'localhost' &&
+            window.location.hostname !== '127.0.0.1' &&
+            fromBase.length >= 1) {
+          fromBase = fromBase.slice(1);
+        }
+        // Skip section index pages (URL ends with /<section>/, one segment under base)
+        // and landing page (/). These are flat index pages, not articles.
+        if (fromBase.length <= 1) return;
+
+        let stem = fromBase[fromBase.length - 1];
         try { stem = decodeURIComponent(stem); } catch(e) { /* keep raw */ }
 
         // Build the graph container
