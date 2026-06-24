@@ -48,9 +48,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (bodyText.length < 800) return;
 
         // Compute article stem from URL path (e.g. /technique/kinetic-chain/ -> kinetic-chain)
+        // Use decodeURIComponent to handle URL-encoded chars (Vietnamese diacritics, parens, etc.)
         const pathParts = window.location.pathname.split('/').filter(Boolean);
         // Strip locale prefix if present
-        const stem = pathParts.length ? pathParts[pathParts.length - 1] : articleTitle;
+        let stem = pathParts.length ? pathParts[pathParts.length - 1] : articleTitle;
+        try { stem = decodeURIComponent(stem); } catch(e) { /* keep raw */ }
 
         // Build the graph container
         const container = document.createElement('div');
