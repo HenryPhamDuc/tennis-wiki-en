@@ -26,19 +26,47 @@
   const CLUSTERS = {};
 
   function getGraphDataUrl() {
-    // Compute the correct relative path to /assets/graph-data.json
+    // Compute the correct relative path to /<base>/assets/graph-data.json
     // from the current page.
-    // MkDocs serves article pages at /<section>/<name>/index.html — the URL
-    // the browser shows ends with "/". When resolving a relative URL, the
-    // browser uses the directory part. So from "/technique/angular-momentum/"
-    // a "../assets/graph-data.json" resolves to "/technique/assets/..." which
-    // is wrong. We need "../../assets/..." for any path with 2+ segments.
+    //
+    // For a GitHub Pages site at https://user.github.io/<repo>/, the JSON
+    // lives at https://user.github.io/<repo>/assets/graph-data.json.
+    // From an article at https://user.github.io/<repo>/section/name/,
+    // we need "../../assets/graph-data.json" (2 levels up).
+    //
+    // Strategy:
+    // 1. If a <base href="..."> tag exists, trust it and compute depth below it.
+    // 2. Otherwise, infer the base by trying to fetch '/assets/graph-data.json'
+    //    from the current host root. If that fails, the first path segment is
+    //    probably the repo name on GitHub Pages — strip it.
+    // 3. For local dev (no repo segment), all segments are depth.
     const path = window.location.pathname;
     const segments = path.split('/').filter(Boolean);
-    // Strip a trailing filename (if any) — we're always in a directory
-    const depth = segments.length;
-    if (depth === 0) return 'assets/graph-data.json';
-    return '../'.repeat(depth) + 'assets/graph-data.json';
+
+    // Strip a trailing filename if any
+    let fromBase = segments.slice();
+    const baseEl = document.querySelector('base[href]');
+    if (baseEl) {
+      const baseHref = baseEl.getAttribute('href').replace(/\/$/, '');
+      try {
+        const baseSegs = new URL(baseHref, window.location.origin).pathname.split('/').filter(Boolean);
+        if (baseSegs.length && baseSegs.length <= fromBase.length &&
+            baseSegs.every((s, i) => s === fromBase[i])) {
+          fromBase = fromBase.slice(baseSegs.length);
+        }
+      } catch(e) { /* ignore */ }
+    }
+    // For GitHub Pages: the path always starts with /<repo>/. Strip the first
+    // segment so depth is computed below the repo root. Local dev (localhost)
+    // typically has no repo prefix, so we skip this for the first segment.
+    // Detect: if there's no <base> tag AND the path has at least one segment
+    // AND we're NOT on localhost, strip the first segment.
+    if (!baseEl && segments.length >= 1 && window.location.hostname !== 'localhost' &&
+        window.location.hostname !== '127.0.0.1') {
+      fromBase = segments.slice(1);
+    }
+    if (fromBase.length === 0) return 'assets/graph-data.json';
+    return '../'.repeat(fromBase.length) + 'assets/graph-data.json';
   }
 
   function init() {
