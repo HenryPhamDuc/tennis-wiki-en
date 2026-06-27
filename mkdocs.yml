@@ -732,9 +732,10 @@ nav:
   - Handbooks: handbooks/index.md
   - References: references/index.md
   - System: system/index.md
+  - 📘 Tennis Control System Interactive Guide: system/tennis-control-system-interactive-guide.md
   - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
   - 📘 Tennis Manual: https://henryphamduc.github.io/tennis/
-  - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-phamduc.workers.dev/
+  - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-pham-duc.workers.dev/
 extra_css:
   - assets/tennis-extra.css
   - assets/graph-component.css

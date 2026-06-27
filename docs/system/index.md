@@ -2,7 +2,7 @@
 
 *Tennis Control System, ranking systems, integrated frameworks*
 
-**Total articles:** 9
+**Total articles:** 10
 
 ## Article list
 
@@ -15,3 +15,4 @@
 - [Representative Learning Design](representative-learning-design.md)
 - [Structural Tone](structural-tone.md)
 - [Tennis as Embodied Cognition](tennis-as-embodied-cognition.md)
+- [Tennis Control System Interactive Guide](tennis-control-system-interactive-guide.md)
