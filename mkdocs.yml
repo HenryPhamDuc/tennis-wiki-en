@@ -732,7 +732,7 @@ nav:
   - Handbooks: handbooks/index.md
   - References: references/index.md
   - System: system/index.md
-  - 🇬🇧 EN: https://henryphamduc.github.io/tennis-wiki/
+  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
   - 📘 Tennis Manual: https://henryphamduc.github.io/tennis/
   - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-phamduc.workers.dev/
 extra_css:
