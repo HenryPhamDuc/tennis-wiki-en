@@ -1658,7 +1658,7 @@
    "cluster": "mental",
    "clusterLabel": "🧠 Mental",
    "clusterColor": "#4527a0",
-   "degree": 4
+   "degree": 5
   },
   {
    "id": 166,
@@ -1688,7 +1688,7 @@
    "cluster": "mental",
    "clusterLabel": "🧠 Mental",
    "clusterColor": "#4527a0",
-   "degree": 7
+   "degree": 8
   },
   {
    "id": 169,
@@ -1718,7 +1718,7 @@
    "cluster": "drills",
    "clusterLabel": "🏋️ Drills",
    "clusterColor": "#558b2f",
-   "degree": 9
+   "degree": 10
   },
   {
    "id": 172,
@@ -1738,7 +1738,7 @@
    "cluster": "forehand",
    "clusterLabel": "🎯 Forehand",
    "clusterColor": "#2e7d32",
-   "degree": 17
+   "degree": 18
   },
   {
    "id": 174,
@@ -8069,6 +8069,16 @@
    "clusterLabel": "✋ Grip & Stance",
    "clusterColor": "#5d4037",
    "degree": 6
+  },
+  {
+   "id": 808,
+   "name": "tennis-control-system-interactive-guide",
+   "path": "system/tennis-control-system-interactive-guide",
+   "url": "system/tennis-control-system-interactive-guide/",
+   "cluster": "frameworks",
+   "clusterLabel": "🧩 Frameworks",
+   "clusterColor": "#ad1457",
+   "degree": 4
   },
   {
    "id": 807,
@@ -25105,6 +25115,38 @@
   {
    "source": 807,
    "target": 503
+  },
+  {
+   "source": 808,
+   "target": 173
+  },
+  {
+   "source": 808,
+   "target": 168
+  },
+  {
+   "source": 808,
+   "target": 171
+  },
+  {
+   "source": 808,
+   "target": 165
+  },
+  {
+   "source": 173,
+   "target": 808
+  },
+  {
+   "source": 168,
+   "target": 808
+  },
+  {
+   "source": 171,
+   "target": 808
+  },
+  {
+   "source": 165,
+   "target": 808
   }
  ],
  "topIds": [
@@ -25480,7 +25522,7 @@
    "id": "frameworks",
    "label": "🧩 Frameworks",
    "color": "#ad1457",
-   "count": 14
+   "count": 15
   },
   {
    "id": "general",
