@@ -18,19 +18,19 @@
 
 <div class="grid cards" markdown>
 
--   :material-image-multiple:{ .lg .middle } **🎨 Thư Viện Hình Ảnh Tennis** (38 sơ đồ infographic)
+-   :material-image-multiple:{ .lg .middle } **🎨 Tennis Image Library** (38 infographics)
 
     ---
 
-    Tổng hợp 38 sơ đồ sinh học & chiến thuật tennis (forehand, backhand, serve, footwork, slice, nền tảng, chiến thuật) — mỗi sơ đồ có Vietnamese + English title + mô tả chi tiết. Click để xem ảnh đầy đủ.
+    A curated collection of 38 high-quality infographics covering tennis biomechanics and tactics — forehand, backhand, serve, footwork, slice, fundamentals, and strategy. Each diagram has bilingual EN/VI titles and a detailed description. Click any thumbnail to view the full image.
 
     [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)
 
--   :material-book-open-page-variant:{ .lg .middle } **📖 Tennis Ebook — Thư Viện Hoàn Chỉnh**
+-   :material-book-open-page-variant:{ .lg .middle } **📖 Tennis Ebook — Complete Library**
 
     ---
 
-    35+ tài liệu tennis được tuyển chọn trong một thư viện tiếng Việt có thể tìm kiếm: 11 deep-dive theo từng cú đánh (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), cộng thêm Tennis Biomechanics 5.0, Tennis Game Management, và cẩm nang HLV nghiệp dư. Song ngữ EN/VI khi nguồn hỗ trợ. Duyệt theo chủ đề, tìm theo từ khóa, nhảy thẳng vào cú đánh bạn muốn sửa.
+    A searchable Vietnamese-language library of 35+ hand-picked tennis documents: 11 deep-dives by shot type (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and an amateur-coach handbook. Bilingual EN/VI where the source supports it. Browse by topic, search by keyword, jump straight to the stroke you want to fix.
 
     [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)
 
