@@ -98,5 +98,5 @@ Petit Bras is a Self 1 problem. The cure is giving Self 1 a simple, non-analytic
 - [Flow State](../psychology/flow-state.md)
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
 

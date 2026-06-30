@@ -12,7 +12,7 @@ A bilingual (Vietnamese / English) interactive web manual that operationalizes t
 
 ## What It Is
 
-**[🔗 Open the guide](https://henryphamduc.github.io/tennis-guide/)** — a 19-chapter interactive manual covering the full Tennis Control System:
+**[🔗 Open the guide](https://henryphamduc.github.io/tennis/tennis-guide/)** — a 19-chapter interactive manual covering the full Tennis Control System:
 
 - **Foreword** — the boundary between victory and defeat decided by the smallest advantages
 - **Chapters 1–5** — Foundations: control theory, visualization, anticipation, pre-shaping, micro-adjustment
@@ -41,7 +41,7 @@ A bilingual (Vietnamese / English) interactive web manual that operationalizes t
 
 ## Relationship to This Wiki
 
-This wiki ([Tennis WIKI EN](https://henryphamduc.github.io/tennis-wiki-en/)) contains the **encyclopedic knowledge**: concept definitions, theoretical references, related research.
+This wiki ([Tennis WIKI EN](https://henryphamduc.github.io/tennis/tennis-wiki-en/)) contains the **encyclopedic knowledge**: concept definitions, theoretical references, related research.
 
 The **Interactive Guide** contains the **operational manual**: long-form prose with drill prescriptions, training programs, integration walkthroughs, and case studies.
 
@@ -55,7 +55,7 @@ Both are CC BY-SA 4.0.
 
 | # | Title | EN | VI |
 |---|---|---|---|
-| 0 | Foreword | [link](https://henryphamduc.github.io/tennis-guide/) | [link](https://henryphamduc.github.io/tennis-guide/) |
+| 0 | Foreword | [link](https://henryphamduc.github.io/tennis/tennis-guide/) | [link](https://henryphamduc.github.io/tennis/tennis-guide/) |
 | 1 | Introduction to the Tennis Control System | ✅ | ✅ |
 | 2 | Visualization in the Multi-Layer System | ✅ | ✅ |
 | 3 | The Anticipation System — Training Manual | ✅ | ✅ |
@@ -77,7 +77,7 @@ Both are CC BY-SA 4.0.
 
 ## Access
 
-- **Live site**: [https://henryphamduc.github.io/tennis-guide/](https://henryphamduc.github.io/tennis-guide/)
+- **Live site**: [https://henryphamduc.github.io/tennis/tennis-guide/](https://henryphamduc.github.io/tennis/tennis-guide/)
 - **Language toggle**: click the "English" / "Tiếng Việt" button in the header
 - **Search**: use the search box in the manual sidebar (Ctrl/Cmd+K)
 - **Source**: GitHub Pages static mirror (no server)
@@ -88,8 +88,8 @@ Both are CC BY-SA 4.0.
 - [Extended Mind Theory](extended-mind-theory.md) — how tools extend cognition (the guide is a cognitive tool)
 - [Representative Learning Design](representative-learning-design.md) — applied in the drill library
 - [Agentic Mind](agentic-mind-1.md) — the agency behind pre-shaping decisions
-- 🌐 **[Vietnamese Wiki version](https://henryphamduc.github.io/tennis-wiki/)** — broader Vietnamese tennis knowledge base
+- 🌐 **[Vietnamese Wiki version](https://henryphamduc.github.io/tennis/tennis-wiki/)** — broader Vietnamese tennis knowledge base
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki

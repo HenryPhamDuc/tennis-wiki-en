@@ -10,7 +10,7 @@
 >
 > 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
 >
-> 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload your tennis video → AI analyzes your technique vs Federer.
+> 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload your tennis video → AI analyzes your technique vs Federer.
 >
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: annotated video + cheat sheet PDF + 0-100 score vs Roger Federer.
 
@@ -24,7 +24,7 @@
 
     A curated collection of 38 high-quality infographics covering tennis biomechanics and tactics — forehand, backhand, serve, footwork, slice, fundamentals, and strategy. Each diagram has bilingual EN/VI titles and a detailed description. Click any thumbnail to view the full image.
 
-    [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)
+    [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/thu-vien-hinh-anh/)
 
 -   :material-book-open-page-variant:{ .lg .middle } **📖 Tennis Ebook — Complete Library**
 
@@ -32,7 +32,7 @@
 
     A searchable Vietnamese-language library of 35+ hand-picked tennis documents: 11 deep-dives by shot type (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and an amateur-coach handbook. Bilingual EN/VI where the source supports it. Browse by topic, search by keyword, jump straight to the stroke you want to fix.
 
-    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)
+    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/ebook/)
 
 </div>
 

@@ -62,5 +62,5 @@ Trong bối cảnh [70% Rule & First Strike Tennis](70%-rule-&-first-strike-tenn
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
 

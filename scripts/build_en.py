@@ -10,7 +10,7 @@ Strategy:
   - Convert [[Wiki Links]] to MkDocs relative links
   - Categorize into English-named subfolders
   - Add YAML frontmatter (English, no Vietnamese translation)
-  - Add nav link to Vietnamese site (https://henryphamduc.github.io/tennis-wiki/)
+  - Add nav link to Vietnamese site (https://henryphamduc.github.io/tennis/tennis-wiki/)
   - Build site with mkdocs + Material theme (English UI)
 """
 import os
@@ -224,7 +224,7 @@ def main():
             frontmatter = '\n'.join(fm_lines) + '\n\n'
 
             # Cross-link to Vietnamese site
-            vn_link = '\n---\n\n> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki\n\n'
+            vn_link = '\n---\n\n> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki\n\n'
 
             full = frontmatter + body + vn_link
 

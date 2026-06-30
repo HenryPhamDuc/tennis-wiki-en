@@ -71,5 +71,5 @@ Toàn bộ chuỗi phụ thuộc vào [Ground Reaction Forces (GRF)](ground-reac
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
 

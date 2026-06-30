@@ -625,5 +625,5 @@ $$Kết\,quả\,trận = e^{Kỹ\,thuật\,DET/NKF + y} + Dữ\,liệu\,AI \time
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
 

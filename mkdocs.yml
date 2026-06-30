@@ -1,6 +1,6 @@
 # MkDocs configuration for English Tennis WIKI
 # ============================================================================
-# English version. Sister site to https://henryphamduc.github.io/tennis-wiki/
+# English version. Sister site to https://henryphamduc.github.io/tennis/tennis-wiki/
 # (Vietnamese version) - cross-linked in nav.
 # ============================================================================
 
@@ -733,7 +733,7 @@ nav:
   - References: references/index.md
   - System: system/index.md
   - 📘 Tennis Control System Interactive Guide: system/tennis-control-system-interactive-guide.md
-  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
+  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis/tennis-wiki/
   - 📘 Tennis Manual: https://henryphamduc.github.io/tennis/
   - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-pham-duc.workers.dev/
 extra_css:

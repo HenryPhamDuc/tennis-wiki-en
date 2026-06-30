@@ -68,5 +68,5 @@ Khuyến nghị: Block 3–4 tuần thi đấu → 1 tuần nghỉ phục hồi 
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
 
