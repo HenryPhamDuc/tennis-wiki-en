@@ -14,6 +14,28 @@
 >
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: annotated video + cheat sheet PDF + 0-100 score vs Roger Federer.
 
+## 🆕 Featured Collections
+
+<div class="grid cards" markdown>
+
+-   :material-image-multiple:{ .lg .middle } **🎨 Thư Viện Hình Ảnh Tennis** (38 sơ đồ infographic)
+
+    ---
+
+    Tổng hợp 38 sơ đồ sinh học & chiến thuật tennis (forehand, backhand, serve, footwork, slice, nền tảng, chiến thuật) — mỗi sơ đồ có Vietnamese + English title + mô tả chi tiết. Click để xem ảnh đầy đủ.
+
+    [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)
+
+-   :material-book-open-page-variant:{ .lg .middle } **📖 Tennis Ebook — Thư Viện Hoàn Chỉnh**
+
+    ---
+
+    35+ tài liệu tennis được tuyển chọn trong một thư viện tiếng Việt có thể tìm kiếm: 11 deep-dive theo từng cú đánh (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), cộng thêm Tennis Biomechanics 5.0, Tennis Game Management, và cẩm nang HLV nghiệp dư. Song ngữ EN/VI khi nguồn hỗ trợ. Duyệt theo chủ đề, tìm theo từ khóa, nhảy thẳng vào cú đánh bạn muốn sửa.
+
+    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)
+
+</div>
+
 ## 🕸️ Knowledge Graph
 
 Explore the wiki as an interactive network — each node is an article, each line is a wikilink. Hover for details, click to open, drag to rearrange, scroll to zoom.
