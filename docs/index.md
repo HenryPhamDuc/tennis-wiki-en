@@ -32,7 +32,7 @@
 
     A searchable Vietnamese-language library of 35+ hand-picked tennis documents: 11 deep-dives by shot type (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and an amateur-coach handbook. Bilingual EN/VI where the source supports it. Browse by topic, search by keyword, jump straight to the stroke you want to fix.
 
-    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/ebook/)
+    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)
 
 </div>
 
