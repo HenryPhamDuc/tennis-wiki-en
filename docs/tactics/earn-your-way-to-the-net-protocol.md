@@ -57,5 +57,5 @@ Closing speed is a mental quality as much as a physical one. The player willing 
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

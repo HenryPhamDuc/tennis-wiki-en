@@ -71,5 +71,5 @@ Redirecting a difficult half-volley deep down the center of the opponent's court
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

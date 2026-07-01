@@ -33,5 +33,5 @@ To cure Zombie Arm, players must relearn how to keep the arm connected to the to
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

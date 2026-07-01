@@ -49,5 +49,5 @@ The [Step-Hit-Step Cadence](step-hit-step-cadence.md) is the structural fix. Spe
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

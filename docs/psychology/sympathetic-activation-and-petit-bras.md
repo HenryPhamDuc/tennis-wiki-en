@@ -66,5 +66,5 @@ The intervention for Petit Bras does not begin with technical correction. The 20
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

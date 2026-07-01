@@ -53,5 +53,5 @@ Unlike the [Bucket Leak](bucket-leak.md) and [Sway Fault](sway-fault.md), which 
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

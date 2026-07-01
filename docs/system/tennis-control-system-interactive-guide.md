@@ -88,8 +88,8 @@ Both are CC BY-SA 4.0.
 - [Extended Mind Theory](extended-mind-theory.md) — how tools extend cognition (the guide is a cognitive tool)
 - [Representative Learning Design](representative-learning-design.md) — applied in the drill library
 - [Agentic Mind](agentic-mind-1.md) — the agency behind pre-shaping decisions
-- 🌐 **[Vietnamese Wiki version](https://henryphamduc.github.io/tennis/tennis-wiki/)** — broader Vietnamese tennis knowledge base
+- 🌐 **[Vietnamese Wiki version](https://henryphamduc.github.io/tennis-wiki/)** — broader Vietnamese tennis knowledge base
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki

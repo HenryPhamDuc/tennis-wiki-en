@@ -87,5 +87,5 @@ This is the **Shu phase** of the [The Shu-Ha-Ri Progression](the-shu-ha-ri-progr
 
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 

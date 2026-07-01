@@ -100,5 +100,5 @@ The subsequent internal shoulder rotation releases the stored elastic energy as 
 - [Self 1 and Self 2](../psychology/self-1-and-self-2.md)
 ---
 
-> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Tiếng Việt](https://henryphamduc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
 
