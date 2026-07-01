@@ -13,6 +13,8 @@
 > 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload your tennis video → AI analyzes your technique vs Federer.
 >
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: annotated video + cheat sheet PDF + 0-100 score vs Roger Federer.
+>
+> 📖 **[Visual Coaching Library (46 cards, 11 topics)](https://henryphamduc.github.io/visual-coaching-library/)** — A bilingual EN/VI flipbook: 46 high-quality biomechanics & tactics diagrams, each paired with 5 numbered practical instructions (English on top, Vietnamese translation below). 230 EN + 230 VI = 460 paragraphs of master-coach content. Open the master edition for all 46 cards, or browse by topic (Forehand, Backhand, Serve, Volley, Footwork, Grip, Biomechanics, Strategy, Multi-topic, Forehand V2, Volley V2). Pure HTML — works offline, no JS framework, full-screen flipbook, responsive.
 
 ## 🆕 Featured Collections
 
