@@ -11,7 +11,7 @@ source_type: "pdf_link"
 source_pdf: "The Art of Modern Tennis A Complete Reference Manual for Elite Players and Coaches Compiled.pdf"
 pdf_size_kb: "756"
 tags: ["handbook", "reference", "martial-body", "agentic-mind", "elite", "english"]
-source_site: "https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/the-art-of-modern-tennis-a-complete-reference-manual-for-elite-players-and-coach/"
+source_site: "https://henryphamduc.github.io/tennis-wiki/cam-nang/the-art-of-modern-tennis-a-complete-reference-manual-for-elite-players-and-coach/"
 ---
 
 # The Art of Modern Tennis — A Complete Reference Manual
@@ -43,7 +43,7 @@ source_site: "https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/the-art
 - **Version:** Compiled
 - **Language:** English
 - **Level:** Elite / Advanced
-- **Source site:** https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/the-art-of-modern-tennis-a-complete-reference-manual-for-elite-players-and-coach/
+- **Source site:** https://henryphamduc.github.io/tennis-wiki/cam-nang/the-art-of-modern-tennis-a-complete-reference-manual-for-elite-players-and-coach/
 
 ---
 

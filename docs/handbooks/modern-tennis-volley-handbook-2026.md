@@ -10,7 +10,7 @@ source_type: "pdf_link"
 source_pdf: "Modern_Tennis_Volley_Handbook_2026.pdf"
 pdf_size_kb: "838"
 tags: ["handbook", "volley", "net", "modern", "2026", "english"]
-source_site: "https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/modern_tennis_volley_handbook_2026/"
+source_site: "https://henryphamduc.github.io/tennis-wiki/cam-nang/modern_tennis_volley_handbook_2026/"
 ---
 
 # Modern Tennis Volley Handbook 2026
@@ -41,7 +41,7 @@ source_site: "https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/modern_
 - **Author:** Henry Pham (Phạm Đức Hải) — Tennis Future Lab
 - **Version:** 2026 Edition
 - **Language:** English
-- **Source site:** https://henryphamduc.github.io/tennis/tennis-wiki/cam-nang/modern_tennis_volley_handbook_2026/
+- **Source site:** https://henryphamduc.github.io/tennis-wiki/cam-nang/modern_tennis_volley_handbook_2026/
 
 ---
 
