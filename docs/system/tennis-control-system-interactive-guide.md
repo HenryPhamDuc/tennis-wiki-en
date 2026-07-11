@@ -12,7 +12,7 @@ A bilingual (Vietnamese / English) interactive web manual that operationalizes t
 
 ## What It Is
 
-**[🔗 Open the guide](https://henryphamduc.github.io/tennis/tennis-guide/)** — a 19-chapter interactive manual covering the full Tennis Control System:
+**[🔗 Open the guide](https://henryphamduc.github.io/tennis-guide/)** — a 19-chapter interactive manual covering the full Tennis Control System:
 
 - **Foreword** — the boundary between victory and defeat decided by the smallest advantages
 - **Chapters 1–5** — Foundations: control theory, visualization, anticipation, pre-shaping, micro-adjustment
@@ -55,7 +55,7 @@ Both are CC BY-SA 4.0.
 
 | # | Title | EN | VI |
 |---|---|---|---|
-| 0 | Foreword | [link](https://henryphamduc.github.io/tennis/tennis-guide/) | [link](https://henryphamduc.github.io/tennis/tennis-guide/) |
+| 0 | Foreword | [link](https://henryphamduc.github.io/tennis-guide/) | [link](https://henryphamduc.github.io/tennis-guide/) |
 | 1 | Introduction to the Tennis Control System | ✅ | ✅ |
 | 2 | Visualization in the Multi-Layer System | ✅ | ✅ |
 | 3 | The Anticipation System — Training Manual | ✅ | ✅ |
@@ -77,7 +77,7 @@ Both are CC BY-SA 4.0.
 
 ## Access
 
-- **Live site**: [https://henryphamduc.github.io/tennis/tennis-guide/](https://henryphamduc.github.io/tennis/tennis-guide/)
+- **Live site**: [https://henryphamduc.github.io/tennis-guide/](https://henryphamduc.github.io/tennis-guide/)
 - **Language toggle**: click the "English" / "Tiếng Việt" button in the header
 - **Search**: use the search box in the manual sidebar (Ctrl/Cmd+K)
 - **Source**: GitHub Pages static mirror (no server)
