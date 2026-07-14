@@ -4,9 +4,9 @@
 >
 > Compiled from the research system of **Henry Phạm**
 
-> 🌐 **[Đọc bằng tiếng Việt](https://henryPhamDuc.github.io/tennis-wiki/)** — Vietnamese version of this wiki
+> 🌐 **[Đọc bằng tiếng Việt](https://henryPhamDuc.github.io/tennis-wiki-vi/)** — Vietnamese version of this wiki
 >
-> 📘 **[Tennis Manual (Master Reference v2)](https://henryPhamDuc.github.io/tennis/)** — Complete bilingual EN-VI coaching manual (22 deep dives + anatomy lab)
+> 📘 **[Tennis Knowledgebase](https://henryPhamDuc.github.io/tennisknowledgebase/en)** — Complete bilingual EN-VI coaching manual (foundation + advanced + elite + anatomy lab + angles atlas)
 >
 > 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
 >
@@ -34,7 +34,7 @@
 
     A searchable Vietnamese-language library of 35+ hand-picked tennis documents: 11 deep-dives by shot type (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and an amateur-coach handbook. Bilingual EN/VI where the source supports it. Browse by topic, search by keyword, jump straight to the stroke you want to fix.
 
-    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)
+    [:octicons-arrow-right-24: Open ebook](https://henryphamduc.github.io/tennis-wiki-vi/cam-nang/ebook/)
 
 </div>
 
@@ -123,7 +123,7 @@ Explore the wiki as an interactive network — each node is an article, each lin
 
 This is the **English** version of Tennis WIKI. The Vietnamese edition is also available:
 
-> :material-translate:{ .lg .middle } **[Tennis WIKI — Tiếng Việt](https://henryPhamDuc.github.io/tennis-wiki/)** — Vietnamese interface, Vietnamese summaries, same content
+> :material-translate:{ .lg .middle } **[Tennis WIKI — Tiếng Việt](https://henryPhamDuc.github.io/tennis-wiki-vi/)** — Vietnamese interface, Vietnamese summaries, same content
 
 ## About
 
