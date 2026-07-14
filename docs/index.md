@@ -26,7 +26,7 @@
 
     A curated collection of 38 tennis biomechanics and tactics diagrams — covering forehand, backhand, serve, footwork, slice, fundamentals, and strategy. Each diagram has both Vietnamese and English titles plus a detailed description. Click any thumbnail to view the full image.
 
-    [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)
+    [:octicons-arrow-right-24: Browse library](https://henryphamduc.github.io/tennis-wiki-vi/cam-nang/thu-vien-hinh-anh/)
 
 -   :material-book-open-page-variant:{ .lg .middle } **📖 Tennis Ebook — Complete Library**
 
